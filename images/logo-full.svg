@@ -6,7 +6,7 @@
 <path d="M30.071 14L25.8284 18.2426C24.2663 19.8047 24.2663 22.3374 25.8284 23.8995L30.071 28.1421" stroke="#EB5757" stroke-width="4.6" stroke-linecap="round"/>
 </mask>
 <g mask="url(#mask0)">
-<g style="mix-blend-mode:darken" opacity="0.25">
+<g style="mix-blend-mode:darken" opacity="0.5">
 <path d="M24.9678 22.4322L30.2001 17.2L29 30L24.9678 25.9678C23.9915 24.9915 23.9915 23.4086 24.9678 22.4322Z" fill="url(#paint0_linear)"/>
 </g>
 </g>
@@ -15,7 +15,7 @@
 <path d="M161.071 14L156.828 18.2426C155.266 19.8047 155.266 22.3374 156.828 23.8995L161.071 28.1421" stroke="#EB5757" stroke-width="4.6" stroke-linecap="round"/>
 </mask>
 <g mask="url(#mask1)">
-<g style="mix-blend-mode:darken" opacity="0.25">
+<g style="mix-blend-mode:darken" opacity="0.5">
 <path d="M155.968 22.4322L161.2 17.2L160 30L155.968 25.9678C154.992 24.9915 154.992 23.4086 155.968 22.4322Z" fill="url(#paint1_linear)"/>
 </g>
 </g>
@@ -24,7 +24,7 @@
 <path d="M36.071 28.1421L40.3137 23.8994C41.8758 22.3374 41.8758 19.8047 40.3137 18.2426L36.071 14" stroke="#EB5757" stroke-width="4.6" stroke-linecap="round"/>
 </mask>
 <g mask="url(#mask2)">
-<g style="mix-blend-mode:darken" opacity="0.25">
+<g style="mix-blend-mode:darken" opacity="0.5">
 <path d="M41.1743 19.7098L35.942 24.9421L37.1421 12.1421L41.1743 16.1743C42.1506 17.1506 42.1506 18.7335 41.1743 19.7098Z" fill="url(#paint2_linear)"/>
 </g>
 </g>
@@ -33,7 +33,7 @@
 <path d="M167.071 28.1421L171.314 23.8994C172.876 22.3374 172.876 19.8047 171.314 18.2426L167.071 14" stroke="#EB5757" stroke-width="4.6" stroke-linecap="round"/>
 </mask>
 <g mask="url(#mask3)">
-<g style="mix-blend-mode:darken" opacity="0.25">
+<g style="mix-blend-mode:darken" opacity="0.5">
 <path d="M172.174 19.7098L166.942 24.9421L168.142 12.1421L172.174 16.1743C173.151 17.1506 173.151 18.7335 172.174 19.7098Z" fill="url(#paint3_linear)"/>
 </g>
 </g>
