@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Coding Font Blog</title>
-    <link href="https://wentin.github.io/publii/feed.xml" rel="self" />
-    <link href="https://wentin.github.io/publii" />
+    <link href="https://codingfonts.com/feed.xml" rel="self" />
+    <link href="https://codingfonts.com" />
     <updated>2022-01-17T14:28:06-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
-    <id>https://wentin.github.io/publii</id>
+    <id>https://codingfonts.com</id>
 
     <entry>
         <title>Our Top 3 Picks of Coding Fonts</title>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://wentin.github.io/publii/our-top-3-picks-of-coding-fonts-2/"/>
-        <id>https://wentin.github.io/publii/our-top-3-picks-of-coding-fonts-2/</id>
+        <link href="https://codingfonts.com/our-top-3-picks-of-coding-fonts-2/"/>
+        <id>https://codingfonts.com/our-top-3-picks-of-coding-fonts-2/</id>
 
         <updated>2022-01-17T14:28:06-05:00</updated>
             <summary>
