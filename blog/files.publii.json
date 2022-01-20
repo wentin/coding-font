@@ -117,7 +117,7 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "7cb804a06470ac4c4c9747e5894ca4d9"
+        "md5": "b7476617f8075600b01c0ee797d7a952"
     },
     {
         "path": "feed.json",
@@ -140,11 +140,6 @@
         "md5": false
     },
     {
-        "path": "/media/Icon\r",
-        "type": "file",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
         "path": "media/posts",
         "type": "directory",
         "md5": false
@@ -155,11 +150,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/2/Icon\r",
-        "type": "file",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
         "path": "/media/posts/2/cover4x-2.png",
         "type": "file",
         "md5": "fa60873529e3ad47b389c7d50a98f0f7"
@@ -168,11 +158,6 @@
         "path": "media/posts/2/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/2/responsive/Icon\r",
-        "type": "file",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     {
         "path": "/media/posts/2/responsive/cover4x-2-2xl.png",
@@ -205,19 +190,9 @@
         "md5": "15e7a617d11e28ca6a7f235f2e1d8360"
     },
     {
-        "path": "/media/posts/Icon\r",
-        "type": "file",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    {
         "path": "media/website",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/website/Icon\r",
-        "type": "file",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     {
         "path": "/media/website/favicon_256.png",
@@ -233,11 +208,6 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/website/responsive/Icon\r",
-        "type": "file",
-        "md5": "d41d8cd98f00b204e9800998ecf8427e"
     },
     {
         "path": "/media/website/responsive/favicon_256-2xl.png",
