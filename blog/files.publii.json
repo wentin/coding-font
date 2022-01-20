@@ -15,6 +15,11 @@
         "md5": false
     },
     {
+        "path": "/assets/css/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
         "path": "/assets/css/editor.css",
         "type": "file",
         "md5": "4202808df745f2ac7ab250606fa0d272"
@@ -35,9 +40,19 @@
         "md5": "d33cc1ab1349896086bad1e5f5b9e215"
     },
     {
+        "path": "/assets/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
         "path": "assets/js",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/assets/js/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/assets/js/photoswipe-ui-default.min.js",
@@ -73,6 +88,11 @@
         "path": "assets/svg",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/assets/svg/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/assets/svg/gallery-icons-dark.svg",
@@ -120,14 +140,19 @@
         "md5": "b7476617f8075600b01c0ee797d7a952"
     },
     {
+        "path": "desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "436c093344e832f88ac6ac21e2f34716"
+        "md5": "73796c39980604637b4adc172a4e7054"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8962d5259dd62dbc26d6a77e5db18299"
+        "md5": "f46a2c996b5433c0ab1e5fc1a1744a14"
     },
     {
         "path": "index.html",
@@ -138,6 +163,31 @@
         "path": "media",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
+        "path": "/media/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "media/posts",
@@ -153,6 +203,11 @@
         "path": "/media/posts/2/cover4x-2.png",
         "type": "file",
         "md5": "fa60873529e3ad47b389c7d50a98f0f7"
+    },
+    {
+        "path": "/media/posts/2/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "media/posts/2/responsive",
@@ -190,9 +245,29 @@
         "md5": "15e7a617d11e28ca6a7f235f2e1d8360"
     },
     {
+        "path": "/media/posts/2/responsive/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
+        "path": "media/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/media/website/favicon_256.png",
@@ -208,6 +283,11 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/desktop.ini",
+        "type": "file",
+        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/media/website/responsive/favicon_256-2xl.png",
@@ -252,12 +332,12 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "324d019af036edb7719705fd545b95e4"
+        "md5": "7cb7ce99e6c9bbca9276d33961952dfc"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
-        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
         "path": "tags",
