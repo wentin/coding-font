@@ -15,11 +15,6 @@
         "md5": false
     },
     {
-        "path": "/assets/css/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
         "path": "/assets/css/editor.css",
         "type": "file",
         "md5": "4202808df745f2ac7ab250606fa0d272"
@@ -40,19 +35,9 @@
         "md5": "d33cc1ab1349896086bad1e5f5b9e215"
     },
     {
-        "path": "/assets/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
         "path": "assets/js",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/assets/js/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/assets/js/photoswipe-ui-default.min.js",
@@ -90,11 +75,6 @@
         "md5": false
     },
     {
-        "path": "/assets/svg/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
         "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
         "md5": "b40f17fabcda1519011795fa715c5751"
@@ -127,7 +107,7 @@
     {
         "path": "/authors/wenting-zhang/index.html",
         "type": "file",
-        "md5": "9296ddbe0d21d6f8527dc3c3d7479e2a"
+        "md5": "90ca48999706c519c1b9fde5d4bcd171"
     },
     {
         "path": "best-coding-fonts",
@@ -137,57 +117,27 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "b7476617f8075600b01c0ee797d7a952"
-    },
-    {
-        "path": "desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
+        "md5": "33672f471dde5f1319dc0b3c5789631f"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "73796c39980604637b4adc172a4e7054"
+        "md5": "240193938124497339584167b18533fc"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f46a2c996b5433c0ab1e5fc1a1744a14"
+        "md5": "abce62f2e1461313467eaf3f61f3cf0b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f291af96cb8d9cc431d3bbf9afbf8497"
+        "md5": "8c35aa2ae3e5c6ab53caf61882c6a51b"
     },
     {
         "path": "media",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/authors",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/authors/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
-        "path": "/media/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
-        "path": "media/files",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/files/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "media/posts",
@@ -203,11 +153,6 @@
         "path": "/media/posts/2/cover4x-2.png",
         "type": "file",
         "md5": "fa60873529e3ad47b389c7d50a98f0f7"
-    },
-    {
-        "path": "/media/posts/2/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "media/posts/2/responsive",
@@ -245,29 +190,9 @@
         "md5": "15e7a617d11e28ca6a7f235f2e1d8360"
     },
     {
-        "path": "/media/posts/2/responsive/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
-        "path": "media/tags",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/tags/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
-    },
-    {
         "path": "media/website",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/website/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/media/website/favicon_256.png",
@@ -283,11 +208,6 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/website/responsive/desktop.ini",
-        "type": "file",
-        "md5": "b7104d97c14c34a207d20f6cb778c2d0"
     },
     {
         "path": "/media/website/responsive/favicon_256-2xl.png",
@@ -332,7 +252,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7cb7ce99e6c9bbca9276d33961952dfc"
+        "md5": "73ea08a703d674dc41b3a39db21337c5"
     },
     {
         "path": "sitemap.xsl",
@@ -352,7 +272,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "94e033de16dbcfba1a5ae93f35bd137a"
+        "md5": "47fcdcaa603e5c492c267982bd28ba87"
     },
     {
         "path": "tags/fonts",
@@ -362,7 +282,7 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "f78e41068ffc4390e72e630a6627c8b1"
+        "md5": "89e900d788c32f147fc43ddef0260f60"
     },
     {
         "path": "/tags/index.html",
@@ -377,6 +297,6 @@
     {
         "path": "/tags/monospaced/index.html",
         "type": "file",
-        "md5": "68ae49bd1439d36de2def766b5354aef"
+        "md5": "ea4ad9c1b906d7c2d9dbf7bcfab7f556"
     }
 ]
