@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.codingfont.com/</loc>
-    <lastmod>2022-01-14</lastmod>
+    <lastmod>2022-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
       <image:image>
@@ -27,6 +27,30 @@
       </image:image>
       <image:image>
         <image:loc>https://www.codingfont.com/images/background.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.codingfont.com/blog/</loc>
+    <lastmod>2022-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>https://www.codingfont.com/blog/media/website/logo-white.svg</image:loc>
+        <image:title>Coding Font Blog</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://www.codingfont.com/blog/best-coding-fonts/</loc>
+    <lastmod>2022-01-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://www.codingfont.com/blog/media/website/logo-white.svg</image:loc>
+        <image:title>Coding Font Blog</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://www.codingfont.com/blog/media/posts/2/cover4x-2.png</image:loc>
         <image:title></image:title>
       </image:image>
   </url>
