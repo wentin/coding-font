@@ -107,12 +107,22 @@
     {
         "path": "/authors/wenting-zhang/index.html",
         "type": "file",
-        "md5": "443a6970f96074bb373c79ccf4ca1523"
+        "md5": "73f9521da52f00187a914c6b84ff2a4b"
+    },
+    {
+        "path": "best-coding-fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-coding-fonts/index.html",
+        "type": "file",
+        "md5": "049d2151e1758dda1cf7ff4759a725da"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1e80f5817838a92e0dc117864993e2c5"
+        "md5": "0b3f57bf81ecac90e3127fc88b6b17f5"
     },
     {
         "path": "media",
@@ -220,16 +230,6 @@
         "md5": "f3813cf975323ebf1e2648228639f55b"
     },
     {
-        "path": "our-top-3-picks-of-coding-fonts-2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/our-top-3-picks-of-coding-fonts-2/index.html",
-        "type": "file",
-        "md5": "8f7374bc466c72b0d77bd45217800e07"
-    },
-    {
         "path": "robots.txt",
         "type": "file",
         "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
@@ -252,7 +252,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "2c5e78311265c9749e1a6ac68ad77808"
+        "md5": "cad3025e7e1eaa14b0489a5ab5d22fe9"
     },
     {
         "path": "tags/fonts",
@@ -262,7 +262,7 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "00ab739a45f9818a3db020cae69c3d9c"
+        "md5": "21ac71ab8b92b0353b48f6629061cb53"
     },
     {
         "path": "/tags/index.html",
@@ -277,6 +277,6 @@
     {
         "path": "/tags/monospaced/index.html",
         "type": "file",
-        "md5": "7b46df8ed335ea9c28f08f2eb9db7793"
+        "md5": "aad4024eef2f1d6ea819b2aae5f31979"
     }
 ]
