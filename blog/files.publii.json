@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1725e017cd866bea1686aff81661a20f"
+        "md5": "807552815e18d6cecfb5ed4c6f7670b1"
     },
     {
         "path": "assets",
@@ -107,12 +107,12 @@
     {
         "path": "/authors/wenting-zhang/index.html",
         "type": "file",
-        "md5": "66b4abb067fb81724c46decb38d51926"
+        "md5": "443a6970f96074bb373c79ccf4ca1523"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1add93265bc88a20e8b36b764d80a779"
+        "md5": "1e80f5817838a92e0dc117864993e2c5"
     },
     {
         "path": "media",
@@ -227,7 +227,7 @@
     {
         "path": "/our-top-3-picks-of-coding-fonts-2/index.html",
         "type": "file",
-        "md5": "16a70fa042963b07b25bd8c12ebe2aa3"
+        "md5": "8f7374bc466c72b0d77bd45217800e07"
     },
     {
         "path": "robots.txt",
@@ -237,7 +237,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "39fb03ee225c311fff997a9a074bc1a9"
+        "md5": "6ac2c2292c7e7ad55338d1f5473dd6ae"
     },
     {
         "path": "tags",
@@ -245,8 +245,38 @@
         "md5": false
     },
     {
+        "path": "tags/coding-fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/coding-fonts/index.html",
+        "type": "file",
+        "md5": "2c5e78311265c9749e1a6ac68ad77808"
+    },
+    {
+        "path": "tags/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/fonts/index.html",
+        "type": "file",
+        "md5": "00ab739a45f9818a3db020cae69c3d9c"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "35bd8048955f8617f12d9d78cdfa3b6e"
+        "md5": "063ca14e4e6f58cc6c78b0e5d02a1a4d"
+    },
+    {
+        "path": "tags/monospaced",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/monospaced/index.html",
+        "type": "file",
+        "md5": "7b46df8ed335ea9c28f08f2eb9db7793"
     }
 ]
