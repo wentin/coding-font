@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "c9b767411d20bcd945dbff8316b53024"
+        "md5": "acebed501d57264d8115ebd3c1313773"
     },
     {
         "path": "assets",
@@ -17,22 +17,22 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+        "md5": "4202808df745f2ac7ab250606fa0d272"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "fc2a9ea293637074d5cea938fd99b9fe"
+        "md5": "08f354ab8cda9c1c7a255e2a120e1e7a"
     },
     {
         "path": "/assets/css/photoswipe.css",
         "type": "file",
-        "md5": "ffb247881cd6f611d007fd4a96b7b16a"
+        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "443b4078cf0fc2c1582285a794db4ba5"
+        "md5": "d33cc1ab1349896086bad1e5f5b9e215"
     },
     {
         "path": "assets/js",
@@ -40,39 +40,34 @@
         "md5": false
     },
     {
-        "path": "/assets/js/isotope.pkgd.min.js",
-        "type": "file",
-        "md5": "2afcff647ed260006faa71c8e779e8d4"
-    },
-    {
         "path": "/assets/js/photoswipe-ui-default.min.js",
         "type": "file",
-        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
     },
     {
         "path": "/assets/js/photoswipe.min.js",
         "type": "file",
-        "md5": "017385b552f7e0d979e2e2fe6f324015"
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
     },
     {
         "path": "/assets/js/scripts.js",
         "type": "file",
-        "md5": "9d6f0b728b9e275f64873913d9c518ac"
+        "md5": "29e3af53b87c8ff12466ebd1c0ba8e6d"
     },
     {
         "path": "/assets/js/scripts.min.js",
         "type": "file",
-        "md5": "b1f07db09e44ca999e985e714f8eba4e"
+        "md5": "48e9576b9741cf2a93ab25c5689c9f5d"
     },
     {
         "path": "/assets/js/svg-fix.js",
         "type": "file",
-        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
     },
     {
         "path": "/assets/js/svg-map.js",
         "type": "file",
-        "md5": "b2f85a1dc7dd3babe4143630b9e8fd53"
+        "md5": "3fc55b509d613f5e49db25528dfafee1"
     },
     {
         "path": "assets/svg",
@@ -82,17 +77,22 @@
     {
         "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
-        "md5": "452594838e74a3df91ad4a20cf53c831"
+        "md5": "b40f17fabcda1519011795fa715c5751"
     },
     {
         "path": "/assets/svg/gallery-icons-light.svg",
         "type": "file",
-        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
     },
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "c8a454075de364fda5bbedb753ee928a"
+        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
     },
     {
         "path": "authors",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/wenting-zhang/index.html",
         "type": "file",
-        "md5": "aa3cc3f44140a7183a16ce133f1cbb55"
+        "md5": "9296ddbe0d21d6f8527dc3c3d7479e2a"
     },
     {
         "path": "best-coding-fonts",
@@ -117,22 +117,22 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "2b1299db22dfab47fdc050f1810f08db"
+        "md5": "176ac1298594c7a6370f3dd563b2ea3d"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "dcbb879169ff9f47ea897c6a52b1aa7d"
+        "md5": "e1de1708c024999b32393fdfcbc4dd77"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "da8ac90fd2064e3baf6da1d0233561e0"
+        "md5": "e1ac065fb6bfea48e583c18098df188c"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "763c9ffbb186a07f9722ddca3181881f"
+        "md5": "f291af96cb8d9cc431d3bbf9afbf8497"
     },
     {
         "path": "media",
@@ -180,11 +180,6 @@
         "md5": "8f5eb05a4f229807f0c3948b96e9d4d4"
     },
     {
-        "path": "/media/posts/2/responsive/cover4x-2-sm2.png",
-        "type": "file",
-        "md5": "4ef8eb28cc854f8f23e8dded83fe0c89"
-    },
-    {
         "path": "/media/posts/2/responsive/cover4x-2-xl.png",
         "type": "file",
         "md5": "dc4eac3683108d3bf08facad8ca040e9"
@@ -200,14 +195,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/favicon.png",
+        "path": "/media/website/favicon_256.png",
         "type": "file",
-        "md5": "4c8edb1b6e017cc6aa9bec78dbae7785"
+        "md5": "936f696a73ec64392466ad168094e0bb"
     },
     {
-        "path": "/media/website/logo.svg",
+        "path": "/media/website/logo-white.svg",
         "type": "file",
-        "md5": "897fd8393a0c1bb494f4185358d01f59"
+        "md5": "86b235c670487b4f2db7e066cfd89b51"
     },
     {
         "path": "media/website/responsive",
@@ -215,69 +210,34 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/favicon-2xl.png",
+        "path": "/media/website/responsive/favicon_256-2xl.png",
         "type": "file",
-        "md5": "2f0ea707bf0cf054c3ed7e8aa69b6805"
+        "md5": "54057673a90c176de6bee76b3259f0bf"
     },
     {
-        "path": "/media/website/responsive/favicon-lg.png",
+        "path": "/media/website/responsive/favicon_256-lg.png",
         "type": "file",
-        "md5": "2f0ea707bf0cf054c3ed7e8aa69b6805"
+        "md5": "54057673a90c176de6bee76b3259f0bf"
     },
     {
-        "path": "/media/website/responsive/favicon-md.png",
+        "path": "/media/website/responsive/favicon_256-md.png",
         "type": "file",
-        "md5": "2f0ea707bf0cf054c3ed7e8aa69b6805"
+        "md5": "54057673a90c176de6bee76b3259f0bf"
     },
     {
-        "path": "/media/website/responsive/favicon-sm.png",
+        "path": "/media/website/responsive/favicon_256-sm.png",
         "type": "file",
-        "md5": "2f0ea707bf0cf054c3ed7e8aa69b6805"
+        "md5": "54057673a90c176de6bee76b3259f0bf"
     },
     {
-        "path": "/media/website/responsive/favicon-xl.png",
+        "path": "/media/website/responsive/favicon_256-xl.png",
         "type": "file",
-        "md5": "2f0ea707bf0cf054c3ed7e8aa69b6805"
+        "md5": "54057673a90c176de6bee76b3259f0bf"
     },
     {
-        "path": "/media/website/responsive/favicon-xs.png",
+        "path": "/media/website/responsive/favicon_256-xs.png",
         "type": "file",
-        "md5": "2f0ea707bf0cf054c3ed7e8aa69b6805"
-    },
-    {
-        "path": "/media/website/responsive/Wenting-Toy-s-2xl.png",
-        "type": "file",
-        "md5": "ca88dd3b3e596f531652cf5560245c60"
-    },
-    {
-        "path": "/media/website/responsive/Wenting-Toy-s-lg.png",
-        "type": "file",
-        "md5": "ca88dd3b3e596f531652cf5560245c60"
-    },
-    {
-        "path": "/media/website/responsive/Wenting-Toy-s-md.png",
-        "type": "file",
-        "md5": "ca88dd3b3e596f531652cf5560245c60"
-    },
-    {
-        "path": "/media/website/responsive/Wenting-Toy-s-sm.png",
-        "type": "file",
-        "md5": "7f739d7d1781209b916d5471591884b1"
-    },
-    {
-        "path": "/media/website/responsive/Wenting-Toy-s-xl.png",
-        "type": "file",
-        "md5": "ca88dd3b3e596f531652cf5560245c60"
-    },
-    {
-        "path": "/media/website/responsive/Wenting-Toy-s-xs.png",
-        "type": "file",
-        "md5": "a418a475b8135448229d5739ec51a3f2"
-    },
-    {
-        "path": "/media/website/Wenting-Toy-s.png",
-        "type": "file",
-        "md5": "6135ad2c8654b530e03d14dd15c92000"
+        "md5": "f3813cf975323ebf1e2648228639f55b"
     },
     {
         "path": "robots.txt",
@@ -287,17 +247,17 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "6fa90a2a25913392bb98e15abf2154df"
+        "md5": "4c38a8d3bae9f4689ade435d1d5841c9"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "50f6fe38c51890180e1af98971a62cab"
+        "md5": "153c6886c46e0b452c81f1912af8ec46"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
-        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "tags",
@@ -312,7 +272,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "bd75b41643fb3c1a12962f4697361c7c"
+        "md5": "94e033de16dbcfba1a5ae93f35bd137a"
     },
     {
         "path": "tags/fonts",
@@ -322,12 +282,12 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "472e8c558afd63f39a69d1dadaf2a880"
+        "md5": "f78e41068ffc4390e72e630a6627c8b1"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1fb3d4b47935bcfe1c6f77829139e518"
+        "md5": "7ddf949728a2362e7a2eccaf8fc022b7"
     },
     {
         "path": "tags/monospaced",
@@ -337,6 +297,6 @@
     {
         "path": "/tags/monospaced/index.html",
         "type": "file",
-        "md5": "28395b881fa44d673b8844c2f7002a14"
+        "md5": "68ae49bd1439d36de2def766b5354aef"
     }
 ]
