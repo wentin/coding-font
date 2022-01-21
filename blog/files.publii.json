@@ -117,17 +117,17 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "5801d9da2200d7d111c3f1c82555eccc"
+        "md5": "176ac1298594c7a6370f3dd563b2ea3d"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f005439862569b1299003f239af67a2b"
+        "md5": "e1de1708c024999b32393fdfcbc4dd77"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e47c63807d28ef2f6e580c4075657e63"
+        "md5": "e1ac065fb6bfea48e583c18098df188c"
     },
     {
         "path": "index.html",
@@ -252,7 +252,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3f8af611550ad53a72e31010df1fc298"
+        "md5": "153c6886c46e0b452c81f1912af8ec46"
     },
     {
         "path": "sitemap.xsl",
