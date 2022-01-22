@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "524de5feffd1fa775867c70d6a62016e"
+        "md5": "562031bb91fe86bd00fe93f9dd9d8623"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "a96cb213f39ad3691207468e1e0e9b2b"
+        "md5": "ae7cdf1fac751ab4e9f4714a1b13a894"
     },
     {
         "path": "assets/js",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/wenting-zhang/index.html",
         "type": "file",
-        "md5": "418cbadfac9a885b1df68ee294f6171b"
+        "md5": "1fbd21b58d84ab7784a9df1a76bbcb63"
     },
     {
         "path": "best-coding-fonts",
@@ -117,7 +117,7 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "8b355140796c0f9802650d255c142b77"
+        "md5": "b133de495bf8c6f632f242ee79da600a"
     },
     {
         "path": "feed.json",
@@ -132,7 +132,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c826f0cb3096d4cdb84e494ad6960bff"
+        "md5": "df98f06412c87d7d2756d9c3a63b02aa"
     },
     {
         "path": "media",
@@ -287,7 +287,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "ceae07aade62d3635f8115180d6962d7"
+        "md5": "3610061be23c14b943361ec9f9d7d39d"
     },
     {
         "path": "sitemap.xml",
@@ -312,7 +312,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "a161f93c3ed26f84327d5ea44877e381"
+        "md5": "be4f54513a95fa8a0cfa9b98ddc11374"
     },
     {
         "path": "tags/fonts",
@@ -322,12 +322,12 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "460667c053033790c6a6d9a03f385eb1"
+        "md5": "675b169fd4bbc76aa724258ff87cc40b"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "4bde39ecd23c5ba2ab379f4dca2ee52b"
+        "md5": "6ff96b85f48cd32b29acfb0e8629004b"
     },
     {
         "path": "tags/monospaced",
@@ -337,6 +337,6 @@
     {
         "path": "/tags/monospaced/index.html",
         "type": "file",
-        "md5": "1f98cf94e6c65153aefbcdf41e543c5a"
+        "md5": "888f895026f9ae4ca08d5e04701402d4"
     }
 ]
