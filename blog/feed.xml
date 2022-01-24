@@ -3,14 +3,14 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-01-20T18:14:23-05:00</updated>
+    <updated>2022-01-23T21:24:26-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://www.codingfont.com/blog</id>
 
     <entry>
-        <title>Our Top 3 Picks of Coding Fonts</title>
+        <title>Our Top Three Picks of Coding Fonts</title>
         <author>
             <name>Wenting Zhang</name>
         </author>
@@ -20,17 +20,20 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-01-20T18:14:23-05:00</updated>
+        <updated>2022-01-23T21:24:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/2/cover4x-2.png" alt="" />
-                    We spent so much time working inside our code editors every day&hellip;
+                    About Author: Hi there! I am Wenting Zhang. I recently quit my engineering job of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/2/cover4x-2.png" alt="" />
-                <p>We spent so much time working inside our code editors every day as engineers. Having a coding font that works for us while programming reduces our eye fatigue, increases productivity, and makes the code cleaner. In this post, we go over our favorite coding fonts and talk about the details of each, so you can decide which is the best for you. But first, for some background, let’s talk briefly about the history of monospaced fonts.</p>
+                <p><em><strong>About Author:</strong></em></p>
+<p><em>Hi there! I am <a target="_blank" href="https://twitter.com/DesignJokes" rel="noopener">Wenting Zhang</a>. I recently <a target="_blank" href="https://build.typogram.co/p/i-bought-a-year-of-time-for-200000" rel="noopener">quit my engineering job</a> of seven years to start my DIY brand kit and design tool startup, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram.</a> if you want to stay in touch, sign up for my build-up-public updates!</em></p>
+<hr>
+<p>We spent so much time working inside our code editors every day as engineers. Having a coding font that works for us while programming reduces our eye fatigue, increases productivity, and makes the code cleaner. In this post, we go over our favorite coding fonts and talk about the details of each, so you can decide which is the best for you. But first, for some background, let’s talk briefly about the history of monospaced fonts.</p>
 <h2 id="heading-the-history-of-monospaced-fonts">The History of Monospaced Fonts</h2>
 <p>Monospaced fonts are fonts with the same fixed width. The earliest form originated to suit the needs of mechanical typewriters, which had a carriage that moved the paper the same distance every time someone pressed a key.</p>
 <p>Even though electric typewriters were introduced later with more choices of fonts, monospaced fonts stayed relevant. Their utilitarian functionality was easy to transfer to new technologies, especially the earliest computers because they had limited display capabilities.</p>
