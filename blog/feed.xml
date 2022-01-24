@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-01-23T21:24:26-05:00</updated>
+    <updated>2022-01-23T21:31:25-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -20,18 +20,18 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-01-23T21:24:26-05:00</updated>
+        <updated>2022-01-23T21:31:25-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/2/cover4x-2.png" alt="" />
-                    About Author: Hi there! I am Wenting Zhang. I recently quit my engineering job of&hellip;
+                    About Author: Hi there! I am Wenting Zhang. I recently quit my engineering job&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/2/cover4x-2.png" alt="" />
                 <p><em><strong>About Author:</strong></em></p>
-<p><em>Hi there! I am <a target="_blank" href="https://twitter.com/DesignJokes" rel="noopener">Wenting Zhang</a>. I recently <a target="_blank" href="https://build.typogram.co/p/i-bought-a-year-of-time-for-200000" rel="noopener">quit my engineering job</a> of seven years to start my DIY brand kit and design tool startup, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram.</a> if you want to stay in touch, sign up for my build-up-public updates!</em></p>
+<p><em>Hi there! I am <a target="_blank" href="https://twitter.com/DesignJokes" rel="noopener">Wenting Zhang</a>. I recently <a target="_blank" href="https://build.typogram.co/p/i-bought-a-year-of-time-for-200000" rel="noopener">quit my engineering job</a> of seven years to start a branding design tool startup, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram.</a> If you want to stay in touch, <a href="#INTERNAL_LINK#/post/null" title="https://build.typogram.co/">sign up</a> for my build-up-public updates!</em></p>
 <hr>
 <p>We spent so much time working inside our code editors every day as engineers. Having a coding font that works for us while programming reduces our eye fatigue, increases productivity, and makes the code cleaner. In this post, we go over our favorite coding fonts and talk about the details of each, so you can decide which is the best for you. But first, for some background, let’s talk briefly about the history of monospaced fonts.</p>
 <h2 id="heading-the-history-of-monospaced-fonts">The History of Monospaced Fonts</h2>
@@ -70,7 +70,7 @@
 <p><img loading="lazy" src="https://lh5.googleusercontent.com/vlYEtiHatEmNHtn4Cf_s7b_oJywnrQoJZ_-3biwQdrp95JuL97Yy6urQDRMy7cYr1br53Fynnd6qdktUTHkoaRwLL8a3VUDYbnLLGLnblw-vSrG3BzsXS1h0NPowm-lIEYrFJCUa" data-is-external-image="true"  alt="https://lh5.googleusercontent.com/vlYEtiHatEmNHtn4Cf_s7b_oJywnrQoJZ_-3biwQdrp95JuL97Yy6urQDRMy7cYr1br53Fynnd6qdktUTHkoaRwLL8a3VUDYbnLLGLnblw-vSrG3BzsXS1h0NPowm-lIEYrFJCUa"></p>
 <p>Img: Jet Brains Mono in use. Create by <a target="_blank" href="https://www.jetbrains.com/" rel="noopener">Jet Brains</a>.</p>
 <p><strong>And that’s our favorites! Which coding font is the right one for you?</strong></p>
-<p>If you want to read more about coding and monospaced fonts, we recently created the Monospace super issue to showcase more <a target="_blank" href="https://fontdiscovery.typogram.co/p/monosuper" rel="noopener">nice fonts and design tips</a> in our FontDiscovery newsletter.</p>
+<p>If you want to read more about coding and monospaced fonts, we recently created the Monospace super issue to showcase more <a target="_blank" href="https://fontdiscovery.typogram.co/p/monosuper" rel="noopener">nice fonts and design tips</a> in our FontDiscovery newsletter.</p>
             ]]>
         </content>
     </entry>
