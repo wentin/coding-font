@@ -117,17 +117,17 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "89e8ece1ad4f099363441d687315cc2f"
+        "md5": "172211c457ca3eddc0a2cb284bfd9e96"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b849c292d4345cce65c68d838cf3269e"
+        "md5": "cae5dc8bef3459765c04bcd48fa177fb"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6128e708e3fa42440be7c4e2366ab61b"
+        "md5": "f48f50b7d971adfe9480acc5bbe139ce"
     },
     {
         "path": "index.html",
@@ -337,7 +337,7 @@
     {
         "path": "/monospaced-fonts/index.html",
         "type": "file",
-        "md5": "d06e6de24c9ef1fe3600f8c81faec453"
+        "md5": "e8f72742d1af800438dc79c78d896336"
     },
     {
         "path": "robots.txt",
@@ -352,7 +352,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2049a3431a3b90c8f23b53d309b3d0b9"
+        "md5": "c5a42ef72223c6acba772c0bd2ff2256"
     },
     {
         "path": "sitemap.xsl",
