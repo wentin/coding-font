@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-01-26T23:38:37-05:00</updated>
+    <updated>2022-01-26T23:54:00-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-01-26T23:38:37-05:00</updated>
+        <updated>2022-01-26T23:54:00-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/3/coverFontDiscoveryMonospacedFonts-2.png" alt="Monospaced Fonts  For Your Startup, Coding &amp; Design  Needs" />
@@ -30,11 +30,11 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/3/coverFontDiscoveryMonospacedFonts-2.png" alt="Monospaced Fonts  For Your Startup, Coding &amp; Design  Needs" />
-                <p><em><strong>About Author: </strong></em><em>Hi there! I am <a target="_blank" href="https://twitter.com/DesignJokes" rel="noopener">Wenting Zhang</a>. I recently <a target="_blank" href="https://build.typogram.co/p/i-bought-a-year-of-time-for-200000" rel="noopener">quit my engineering job</a> of seven years to start a branding design tool startup, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram.</a> If you want to stay in touch, <a href="#INTERNAL_LINK#/post/null" title="https://build.typogram.co/">sign up</a> for my build-up-public updates!</em></p>
+                <p><em><strong>About Author: </strong></em><em>Hi there! I am <a href="https://twitter.com/DesignJokes" target="_blank" rel="noopener noreferrer">Wenting Zhang</a>. I recently <a href="https://build.typogram.co/p/i-bought-a-year-of-time-for-200000" target="_blank" rel="noopener noreferrer">quit my engineering job</a> of seven years to start a branding design tool startup, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram.</a> If you want to stay in touch, <a href="#INTERNAL_LINK#/post/NaN" title="https://build.typogram.co/" target="_blank" rel="noopener noreferrer">sign up</a> for my build-up-public updates!</em></p>
 <hr>
-<p>We covered monospaced fonts many times in our beloved <a href="#INTERNAL_LINK#/post/NaN" title="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>. <em>(See our <a href="#INTERNAL_LINK#/post/null" title="https://www.codingfont.com/blog/best-coding-fonts/">previous post</a> if you need a quick refresher on the history of monospaced fonts.) </em>Some are a part of an extensive font family, some standing strong on their own. One thing is for sure, people love to monospace fonts because some of these issues are our most popular. Here is a recap of the monospaced issues we have covered so far. You can try these fonts for as coding fonts, fonts for your web, app, or design projects and fonts for your branding and startup. </p>
+<p>We covered monospaced fonts many times in our beloved <a href="https://fontdiscovery.typogram.co/" target="_blank" rel="noopener noreferrer">FontDiscovery newsletter</a>. <em>(See our <a href="https://www.codingfont.com/blog/best-coding-fonts/" target="_blank" rel="noopener noreferrer">previous post</a> if you need a quick refresher on the history of monospaced fonts.) </em>Some are a part of an extensive font family, some standing strong on their own. One thing is for sure, people love to monospace fonts because some of these issues are our most popular. Here is a recap of the monospaced issues we have covered so far. You can try these fonts for as coding fonts, fonts for your web, app, or design projects and fonts for your branding and startup. </p>
 <h3>Noto Sans Mono</h3>
-<p>We covered Noto in <a href="#INTERNAL_LINK#/post/null" title="https://fontdiscovery.typogram.co/p/noto">FontDiscovery issue 42</a><a href="https://fonts.substack.com/p/noto" rel=""></a>. It is a joint project by several big tech companies (Google, Adobe, and Monotype) to eliminate “Tofu,” which is the box that shows up when there is a missing character. Taking the neutral tone and style elements from the Noto Sans, Noto Sans Mono is neutral and inviting. The monospaced version of Noto Sans is also available. It has several weights and italics for you to use. And you can toggle ligature if you need to. </p>
+<p>We covered Noto in <a href="https://fontdiscovery.typogram.co/p/noto" target="_blank" rel="noopener noreferrer">FontDiscovery issue 42</a><a href="https://fonts.substack.com/p/noto" rel=""></a>. It is a joint project by several big tech companies (Google, Adobe, and Monotype) to eliminate “Tofu,” which is the box that shows up when there is a missing character. Taking the neutral tone and style elements from the Noto Sans, Noto Sans Mono is neutral and inviting. The monospaced version of Noto Sans is also available. It has several weights and italics for you to use. And you can toggle ligature if you need to. </p>
 <h4>Details</h4>
 <ul>
 <li>
@@ -53,7 +53,7 @@
 </div>
 <p>img: Reddit homepage uses IBM Plex Sans for the link titles and most of the interface. The body text of posts is set in Noto Sans. source: FontInUse</p>
 <h3>IBM Plex Mono </h3>
-<p>Like Noto Sans Mono, IBM Plex Mono (<a href="https://fontdiscovery.typogram.co/p/fontdiscovery-13-plex-a-font-family">issue 13</a>) benefits from being in a large font family: it has several weights and italics. Plex is extensive because IBM originally used it as its branding font. IBM wanted to illustrate the themes of humanity and machine. The font mirrored this brand vision by having neutral and balanced weights with more friendly italics. Compared with Noto Sans Mono, IBM Plex Mono feels more “rigid” with serifs on the letters.</p>
+<p>Like Noto Sans Mono, IBM Plex Mono (<a href="https://fontdiscovery.typogram.co/p/fontdiscovery-13-plex-a-font-family" target="_blank" rel="noopener noreferrer">issue 13</a>) benefits from being in a large font family: it has several weights and italics. Plex is extensive because IBM originally used it as its branding font. IBM wanted to illustrate the themes of humanity and machine. The font mirrored this brand vision by having neutral and balanced weights with more friendly italics. Compared with Noto Sans Mono, IBM Plex Mono feels more “rigid” with serifs on the letters.</p>
 <h4>Details</h4>
 <ul>
 <li>
@@ -70,9 +70,9 @@
 <div class="captioned-image-container">
 <figure><figure class="sizing-default"><img loading="lazy"  src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F99a1974c-5873-4247-af68-2544aff461a2_1074x694.png" data-is-external-image="true"  alt="" width="728" height="694" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/99a1974c-5873-4247-af68-2544aff461a2_1074x694.png&quot;,&quot;fullscreen&quot;:null,&quot;height&quot;:694,&quot;width&quot;:1074,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null}"></figure></figure>
 </div>
-<p>img: hackernoon uses are Plex for its site. The UI texts are Plex Mono. the article is Plex Sans. source: <a href="https://hackernoon.com/" rel="">hackernoon</a></p>
+<p>img: hackernoon uses are Plex for its site. The UI texts are Plex Mono. the article is Plex Sans. source: hackernoon</p>
 <h3>Xanh Mono</h3>
-<p>Xanh Mono (<a href="#INTERNAL_LINK#/post/null" title="https://fontdiscovery.typogram.co/p/fontdiscovery-36-a-font-for-coding">issue 36</a>)is a unique monospaced font. It spices up the idea of monospaced fonts with its pronounced serifs and ball terminals that I haven’t seen in others. It brings an extra sense of elegance and grandeur to designs as a display font for headers. As a coding font, I think it’s an acquired taste. Because of its large serifs, I find Xanh Mono uncomfortable to stare at them for hours when coding. However, if you want to spice up your editor, give it a try.</p>
+<p>Xanh Mono (<a href="https://fontdiscovery.typogram.co/p/fontdiscovery-36-a-font-for-coding" target="_blank" rel="noopener noreferrer">issue 36</a>)is a unique monospaced font. It spices up the idea of monospaced fonts with its pronounced serifs and ball terminals that I haven’t seen in others. It brings an extra sense of elegance and grandeur to designs as a display font for headers. As a coding font, I think it’s an acquired taste. Because of its large serifs, I find Xanh Mono uncomfortable to stare at them for hours when coding. However, if you want to spice up your editor, give it a try.</p>
 <h4>Details</h4>
 <ul>
 <li>
@@ -92,7 +92,7 @@
 <p>img: true italic lowercase letters of Xanh Mono</p>
 <h3>Space Mono</h3>
 <p>While monospaced fonts sound techy and nerdy, they also appear intimate and friendly in specific contexts. Reasons could be the extra comfort to our eyes brought by its fixed width or remembrance of memories past when we click-clacked our thoughts to our loved ones.  Either way, monospaced fonts are having a comeback. People love using them in their brands.</p>
-<p>Space Mono (<a href="https://fontdiscovery.typogram.co/p/fontdiscovery-21-tips-about-using">issue 21</a>) is an excellent example of this. It is a cute, eclectic, friendly monospace font combining geometric perfection with the human touch. The shapes of the letters are very geometric but with a funky calligraphic influence of grotesque sans serifs. Human touch like these makes Space Mono perfect for friendly tech brands. </p>
+<p>Space Mono (<a href="https://fontdiscovery.typogram.co/p/fontdiscovery-21-tips-about-using" target="_blank" rel="noopener noreferrer">issue 21</a>) is an excellent example of this. It is a cute, eclectic, friendly monospace font combining geometric perfection with the human touch. The shapes of the letters are very geometric but with a funky calligraphic influence of grotesque sans serifs. Human touch like these makes Space Mono perfect for friendly tech brands. </p>
 <h4>Details</h4>
 <ul>
 <li>
@@ -110,7 +110,7 @@
 <figure><figure class="sizing-default"><img loading="lazy"  src="https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20469e15-e49f-4bf9-b33e-ea02c03e4c8d_1600x1067.gif" data-is-external-image="true"  alt="" width="728" height="971" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/20469e15-e49f-4bf9-b33e-ea02c03e4c8d_1600x1067.gif&quot;,&quot;fullscreen&quot;:null,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null}"></figure></figure>
 <p>img: Data display using Space Mono. source: Google Design</p>
 <hr>
-<p><strong>If you enjoyed this post, you can also subscribe our <a href="#INTERNAL_LINK#/post/null" title="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>, where we share weekly tips about font and design tips.</strong></p>
+<p><strong>If you enjoyed this post, you can also subscribe our <a href="#INTERNAL_LINK#/post/NaN" title="https://fontdiscovery.typogram.co/" target="_blank" rel="noopener noreferrer">FontDiscovery newsletter</a>, where we share weekly tips about font and design tips.</strong></p>
 </div>
             ]]>
         </content>
