@@ -122,12 +122,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0a13887eec95b0defb3b8d4805ed3ed8"
+        "md5": "458a34b064dc06fed092ca9c624802ea"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "495ffcc90fb7475188431c34d352d894"
+        "md5": "6cc7e3579e43cdeeab35bb59b05124bc"
     },
     {
         "path": "index.html",
@@ -337,7 +337,7 @@
     {
         "path": "/monospaced-fonts/index.html",
         "type": "file",
-        "md5": "8cb244ac2eb6d63a5a52ef6ff75ee062"
+        "md5": "f602c47d5a1ed5bb9ea33f4858df41e4"
     },
     {
         "path": "robots.txt",
@@ -352,7 +352,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "14627938c3d8457b36e0cad7d1b0d5e2"
+        "md5": "a9d0aa8154c8f3baf501beada2c66104"
     },
     {
         "path": "sitemap.xsl",
