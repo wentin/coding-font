@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-04-06T17:30:58-04:00</updated>
+    <updated>2022-04-06T17:41:02-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/"/>
         <id>https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/</id>
 
-        <updated>2022-04-06T17:30:58-04:00</updated>
+        <updated>2022-04-06T17:41:02-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/7/buildingCodingFontWLowCode.png" alt="Create a Coding Font Game With Low Code" />
@@ -28,7 +28,7 @@
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/7/buildingCodingFontWLowCode.png" alt="Create a Coding Font Game With Low Code" />
                 <p><em><strong>About Author:</strong></em> 
-<em>Hi, I am Wenting Zhang. I recently quit my job of seven years to build my start-up, Typogram, logo design and editing tool for startup founders and absolute beginners. We just launched our pre-order.✨ If you want to stay in touch, sign-up for my build-up-public updates.</em></p>
+<em>Hi, I am Wenting Zhang. I recently quit my job of seven years to build my start-up, Typogram, logo design and editing tool for startup founders and absolute beginners. We just launched our <a href="https://www.typogram.co/">pre-order</a>.✨ If you want to stay in touch, sign-up for my <a href="https://build.typogram.co/">build-up-public</a> updates.</em></p>
 <hr>
 <p>As engineers, we spend a lot of time in front of our computer screens. The coding font that we spend 8 hours a day staring at has a lot to do with our productivity and comfort. I am very picky about coding fonts and like to experiment with that setting to find the best balance. You too? That’s great because I made an app just for you! I will go through how we create <a href="https://codingfont.com/">CodingFont.com</a>—a gamified experience that helps you find your true love amongst coding fonts.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/7/retool_codingfont-1-2.gif" alt="The winning screen of the coding font tournament" width="906" height="480" /></figure></p>
