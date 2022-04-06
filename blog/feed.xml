@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-04-06T19:42:28-04:00</updated>
+    <updated>2022-04-06T19:46:39-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.codingfont.com/blog/we-just-launched-something-new/"/>
         <id>https://www.codingfont.com/blog/we-just-launched-something-new/</id>
 
-        <updated>2022-04-06T19:42:28-04:00</updated>
+        <updated>2022-04-06T19:46:39-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/8/post5-ourjourney-2.png" alt="we just launched typogram&#x27;s pre order!" />
@@ -58,9 +58,8 @@
 <li>Are you a Blogger? Maybe we can do a guest blog? </li>
 <li>Thank you so much! It means a lot to small indie business owners like us!</li>
 </ul>
-<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"> </p>
+<form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow"><hr>
+<p align="center"><em>If you want to stay in touch, sign-up for my <a href="#INTERNAL_LINK#/post/null" title="https://build.typogram.co/">build-up-public</a> newsletter updates!</em></p>
 </form>
             ]]>
         </content>
