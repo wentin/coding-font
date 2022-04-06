@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-04-06T17:41:02-04:00</updated>
+    <updated>2022-04-06T17:56:17-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/"/>
         <id>https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/</id>
 
-        <updated>2022-04-06T17:41:02-04:00</updated>
+        <updated>2022-04-06T17:55:48-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/7/buildingCodingFontWLowCode.png" alt="Create a Coding Font Game With Low Code" />
@@ -84,7 +84,7 @@
         <link href="https://www.codingfont.com/blog/how-to-create-good-landing-pages/"/>
         <id>https://www.codingfont.com/blog/how-to-create-good-landing-pages/</id>
 
-        <updated>2022-04-06T17:27:59-04:00</updated>
+        <updated>2022-04-06T17:56:12-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/5/post-3-FourElementsLandingPage.png" alt="four elements of good landing pages" />
@@ -138,11 +138,10 @@ Originally published on our build in publilc newsletter. <a href="https://build.
         </author>
         <link href="https://www.codingfont.com/blog/monospaced-fonts/"/>
         <id>https://www.codingfont.com/blog/monospaced-fonts/</id>
-            <category term="monospaced"/>
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-04-06T17:27:50-04:00</updated>
+        <updated>2022-04-06T17:56:17-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/3/coverFontDiscoveryMonospacedFonts-2.png" alt="Monospaced Fonts  For Your Startup, Coding &amp; Design  Needs" />
@@ -244,7 +243,6 @@ Originally published on our build in publilc newsletter. <a href="https://build.
         </author>
         <link href="https://www.codingfont.com/blog/best-coding-fonts/"/>
         <id>https://www.codingfont.com/blog/best-coding-fonts/</id>
-            <category term="monospaced"/>
             <category term="fonts"/>
             <category term="coding fonts"/>
 
