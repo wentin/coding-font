@@ -122,12 +122,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "76583402a6201a05f9b27204a3fa33c1"
+        "md5": "e8151600c3420a280738b06a105d67e7"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2cdc1e61413e9088841fcf4503c74047"
+        "md5": "757016a1875049c6014cce1521ad0e78"
     },
     {
         "path": "how-i-created-a-product-with-low-code",
@@ -565,6 +565,11 @@
         "md5": false
     },
     {
+        "path": "/media/posts/8/emotionalJourney.png",
+        "type": "file",
+        "md5": "577bd91dc5384795beacd443849c6bf1"
+    },
+    {
         "path": "/media/posts/8/post5-ourjourney-2.png",
         "type": "file",
         "md5": "c89c6dba68cf1f20eda6cfb058d52260"
@@ -573,6 +578,26 @@
         "path": "media/posts/8/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/emotionalJourney-lg.png",
+        "type": "file",
+        "md5": "af7196369b318fa8a6e83a2646b33203"
+    },
+    {
+        "path": "/media/posts/8/responsive/emotionalJourney-md.png",
+        "type": "file",
+        "md5": "4722dffc2e2ac0b719d1e10323f44bcb"
+    },
+    {
+        "path": "/media/posts/8/responsive/emotionalJourney-sm.png",
+        "type": "file",
+        "md5": "e9d1467af6378f7c0cb09f882a16b594"
+    },
+    {
+        "path": "/media/posts/8/responsive/emotionalJourney-xs.png",
+        "type": "file",
+        "md5": "2fe96dff37474fcef38daba723bdb605"
     },
     {
         "path": "/media/posts/8/responsive/post5-ourjourney-2-2xl.png",
@@ -717,7 +742,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0720f747e3a1443f4efbb9f2ff49da76"
+        "md5": "b875905538cf0b92f941d5d58be0a628"
     },
     {
         "path": "sitemap.xsl",
@@ -762,6 +787,6 @@
     {
         "path": "/we-just-launched-something-new/index.html",
         "type": "file",
-        "md5": "0f336bf469310292b804893f43938c18"
+        "md5": "7037fe42ebcb2da047ac136865bab2a4"
     }
 ]
