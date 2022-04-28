@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-04-28T00:16:13-04:00</updated>
+    <updated>2022-04-28T18:09:19-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-04-28T00:16:13-04:00</updated>
+        <updated>2022-04-28T18:09:19-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="" />
@@ -71,6 +71,18 @@
 <p><span style="font-weight: 400;">If you don’t care for ligatures, IBM Plex Mono is an excellent choice as a coding font with true italics. Ligatures can also be disabled in Victor Mono and JetBrains Mono. Fira Code also has an excellent set of programming ligatures. </span></p>
 <p>
 <script>
+var cssId = 'myCss';  // you could encode the css path itself to generate id..
+if (!document.getElementById(cssId))
+{
+    var head  = document.getElementsByTagName('head')[0];
+    var link  = document.createElement('link');
+    link.id   = cssId;
+    link.rel  = 'stylesheet';
+    link.type = 'text/css';
+    link.href = 'https://res.cloudinary.com/dr6lvwubh/raw/upload/v1651182915/coding-font/css/font-tester.css';
+    link.media = 'all';
+    head.appendChild(link);
+}
 var IBMPlexMono = {
   "color": "#13142e",
   "family": "IBM Plex Mono",
