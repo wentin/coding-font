@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-04-27T23:58:42-04:00</updated>
+    <updated>2022-04-28T00:09:49-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-04-27T23:58:42-04:00</updated>
+        <updated>2022-04-28T00:09:49-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="" />
@@ -74,7 +74,8 @@
 var IBMPlexMono = {
   "color": "#13142e",
   "family": "IBM Plex Mono",
-  "specimen": `<span class="code_comment"> //say I love Typogram 10 times!</span> 
+  "specimen": `
+    <span class="code_comment">//say I love Typogram 10 times!</span> 
     <span class="code_keyword">var</span> n<span class="code_keyword"> = </span>10;
     <span class="code_keyword">for</span>(<span class="code_keyword">let</span> <span class="code_normal">i <span class="code_keyword">=</span> 1; i<span class="code_keyword"><=</span> n; i<span class="code_keyword">++</span>){</span>
       <span class="code_keyword_alt">console.log</span><span class="code_normal">(<span class="code_string">'I love Typogram.'</span>)}</span>;`,
@@ -91,11 +92,11 @@ var IBMPlexMono = {
 var VictorMono = {
   "color": "#13142e",
   "family": "Victor Mono",
-  "specimen": `<span class = "code_keyword">const</span> <span class = "code_normal">angryWillSmith =</span> <span class = "code_keyword">setTimeout</span><span class = "code_normal">(faceSlap, 5000)</span>;
-  <span class = "code_keyword_alt">
-  function</span> <span class = "code_normal">banFromOscars(){ 
-    </span><span class = "code_keyword">clearTimeout</span><span class = "code_normal">(angryWillSmith);
-  }</span>`,
+  "specimen": `
+    <span class = "code_keyword">const</span> <span class = "code_normal">angryWillSmith =</span> <span class = "code_keyword">setTimeout</span><span class = "code_normal">(faceSlap, 5000)</span>;
+    <span class = "code_keyword_alt">function</span> <span class = "code_normal">banFromOscars(){ 
+  		</span><span class = "code_keyword">clearTimeout</span><span class = "code_normal">(angryWillSmith);
+  	}</span>`,
   "fontSize": 20,
   "fonts": [
     {
@@ -110,11 +111,12 @@ var JetBrainsMono = {
   // color of the tester
   "color": "#13142e",
   "family": "JetBrains Mono",
-  "specimen": `<span class = "code_comment">//async class methods</span>
-     <span class = "code_keyword_alt">class</span> Waiter <span class = "code_normal">{</span>
-      <span class = "code_keyword">async</span> wait() <span class = "code_normal">{</span>
-        <span class = "code_keyword">return</span> <span class = "code_keyword_alt">await</span> <span class = "code_keyword">Promise.resolve(1)</span>;
-     <span class = "code_normal">}
+  "specimen": `
+    <span class = "code_comment">//async class methods</span>
+    <span class = "code_keyword_alt">class</span> Waiter <span class = "code_normal">{</span>
+    	<span class = "code_keyword">async</span> wait() <span class = "code_normal">{</span>
+        	<span class = "code_keyword">return</span> <span class = "code_keyword_alt">await</span> <span class = "code_keyword">Promise.resolve(1)</span>;
+     	<span class = "code_normal">}
     }</span>`,
   "fontSize": 20,
   "fonts": [
@@ -129,7 +131,8 @@ var JetBrainsMono = {
 var VictorMonoLig = {
   "color": "#13142e",
   "family": "Victor Mono",
-  "specimen": `<span class = "code_comment">//more async functions</span>
+  "specimen": `
+    <span class = "code_comment">//more async functions</span>
     <span class = "code_keyword">let</span> <span class = "code_normal">age = <span class = "code_keyword">prompt</span>(<span class = "code_string">'What is your age?',</span> 18);</span>
     <span class = "code_keyword">let</span> <span class = "code_normal">welcome = (age < 18) ?</span>
       <span class = "code_normal">() =></span> <span class = "code_keyword">alert</span><span class = "code_normal">(<span class = "code_string">'Hello!'</span>):</span>
