@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-04-28T00:09:49-04:00</updated>
+    <updated>2022-04-28T00:16:13-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-04-28T00:09:49-04:00</updated>
+        <updated>2022-04-28T00:16:13-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="" />
@@ -94,9 +94,9 @@ var VictorMono = {
   "family": "Victor Mono",
   "specimen": `
     <span class = "code_keyword">const</span> <span class = "code_normal">angryWillSmith =</span> <span class = "code_keyword">setTimeout</span><span class = "code_normal">(faceSlap, 5000)</span>;
-    <span class = "code_keyword_alt">function</span> <span class = "code_normal">banFromOscars(){ 
-  		</span><span class = "code_keyword">clearTimeout</span><span class = "code_normal">(angryWillSmith);
-  	}</span>`,
+    <span class = "code_keyword_alt">function</span> <span class = "code_normal">banFromOscars(){</span>
+    	<span class = "code_keyword">clearTimeout</span><span class = "code_normal">(angryWillSmith);
+    }</span>`,
   "fontSize": 20,
   "fonts": [
     {
