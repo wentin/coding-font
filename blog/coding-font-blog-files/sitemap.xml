@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.codingfont.com/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.codingfont.com/blog/</loc>
+</url>
+<url>
+<loc>https://www.codingfont.com/blog/best-coding-fonts/</loc>
+<lastmod>2022-04-06T17:26:53-04:00</lastmod>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/2/coverBestCodingFonts-2.png</image:loc>
+<image:title><![CDATA[Our Top Three Picks of Coding Fonts]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.codingfont.com/blog/best-free-coding-fonts-with-italics-and-programming-ligatures/</loc>
+<lastmod>2022-05-23T16:54:07-04:00</lastmod>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/9/operator-mono-2.png</image:loc>
+<image:title><![CDATA[Operator Mono regular and Italic ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/</loc>
+<lastmod>2022-04-06T19:13:37-04:00</lastmod>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/7/buildingCodingFontWLowCode.png</image:loc>
+<image:title><![CDATA[Create a Coding Font Game With Low Code]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.codingfont.com/blog/how-to-create-good-landing-pages/</loc>
+<lastmod>2022-04-06T17:56:12-04:00</lastmod>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/5/post-3-FourElementsLandingPage.png</image:loc>
+<image:title><![CDATA[four elements of good landing pages]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.codingfont.com/blog/monospaced-fonts/</loc>
+<lastmod>2022-04-06T17:56:17-04:00</lastmod>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/3/coverFontDiscoveryMonospacedFonts-2.png</image:loc>
+<image:title><![CDATA[Monospaced Fonts  For Your Startup, Coding & Design  Needs]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.codingfont.com/blog/we-just-launched-something-new/</loc>
+<lastmod>2022-04-27T23:49:16-04:00</lastmod>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/8/post5-ourjourney-2.png</image:loc>
+<image:title><![CDATA[we just launched typogram's pre order!]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.codingfont.com/blog/media/posts/8/emotionalJourney.png</image:loc>
+<image:title><![CDATA[the emotional journey of making a product]]></image:title>
+</image:image>
+</url>
+</urlset>
