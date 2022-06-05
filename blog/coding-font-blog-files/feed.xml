@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-06-05T19:35:31-04:00</updated>
+    <updated>2022-06-05T19:42:28-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-05T19:35:31-04:00</updated>
+        <updated>2022-06-05T19:42:28-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
@@ -34,10 +34,9 @@
 <p><span style="font-weight: 400;">Operator Mono is one of the most popular paid coding fonts. A quick search would reveal <a href="https://kennethreitz.org/essays/2016/11/09/test-driving-a-200-programming-font-operator-mono" target="_blank" rel="noopener noreferrer">several posts</a> on the internet reviewing the font. </span></p>
 <p><span style="font-weight: 400;">Operator Mono is something I would like for my daily use; however, as a scrappy entrepreneur trying to build a startup, dropping $200 isn’t an option. Naturally, I looked for open source alternatives similar to Operator Mono that I can use in my code editor to increase workflow. </span></p>
 <p><span style="font-weight: 400;">Before talking about good free alternatives to <a href="https://www.typography.com/blog/introducing-operator" target="_blank" rel="noopener noreferrer">Operator Mono</a>, I would like to point out its most unique design feature –– Operator Mono’s “true italic,” which improves the coding experience by making comments and keywords more quickly identifiable.</span></p>
-<figure class="post__image" ><figure class="center__post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/9/operator-mono-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-lg.png 1024w"  alt="Operator Mono regular and Italic " width="730" height="382"></figure>
+<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/9/operator-mono-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-lg.png 1024w"  alt="Operator Mono regular and Italic " width="1088" height="631">
 <figcaption >Operator Mono regular and Italic </figcaption>
 </figure>
-<h1> </h1>
 <h1><span style="font-weight: 400;">Monospaced Coding Font with True Italic</span></h1>
 <p> </p>
 <p><span style="font-weight: 400;">For context, italics come in two flavors: faux and true. Many fonts offer slightly slanted versions derived from the original letterforms. This slanted version of italic is called <a href="https://fontdiscovery.typogram.co/p/designindex" target="_blank" rel="noopener noreferrer">faux italic.</a></span></p>
