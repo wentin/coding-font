@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "5e0f6945673540194aa9199f7362fe1e"
+        "md5": "b3f08bf5d58f15732bf895186646cf6c"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "69cef720f24ac020088465747d885cce"
+        "md5": "65f1a5ca38dcb1d228e100935bb4bae5"
     },
     {
         "path": "assets/js",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/hua-shu/index.html",
         "type": "file",
-        "md5": "32e350cf3ba3e1497287ce82cec13e54"
+        "md5": "e4d64a9eaf1c4bc0cb765a4b4b6862a4"
     },
     {
         "path": "authors/wenting-zhang",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/wenting-zhang/index.html",
         "type": "file",
-        "md5": "4d8ea0b4bcd1ea9094aefb1f84ebdd68"
+        "md5": "74570ce9680bad8a9903fae0cefe0199"
     },
     {
         "path": "best-coding-fonts",
@@ -127,7 +127,7 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "3efe4fb14a5ac29b2fe9456bdca15763"
+        "md5": "84d2eaf9c1b0cc3f44dd372132c25ea2"
     },
     {
         "path": "best-free-coding-fonts-with-italics-and-programming-ligatures",
@@ -137,17 +137,17 @@
     {
         "path": "/best-free-coding-fonts-with-italics-and-programming-ligatures/index.html",
         "type": "file",
-        "md5": "fc05cae7ab44e0b1d0ce26752497b204"
+        "md5": "0c906e1e1f94612a5aa993f79c812257"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "e0c576abc20eea17e986ae717b4e05a7"
+        "md5": "463bb27912e07260f40d761b51bc1b0f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4ed70f16203611a2a761932ee0a02c03"
+        "md5": "2f13bcfa890ff6935f5a0eb0ed2d3d66"
     },
     {
         "path": "how-i-created-a-product-with-low-code",
@@ -157,7 +157,7 @@
     {
         "path": "/how-i-created-a-product-with-low-code/index.html",
         "type": "file",
-        "md5": "20439f6bef72235e02469cdc94846ba6"
+        "md5": "945f361cdd731aae6b7c05b48366f0d9"
     },
     {
         "path": "how-to-create-good-landing-pages",
@@ -167,12 +167,12 @@
     {
         "path": "/how-to-create-good-landing-pages/index.html",
         "type": "file",
-        "md5": "87979bd563dfb4fd76048be8c69ee628"
+        "md5": "03482066a77b472ed08d2490f974378b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3b27ecd804a03c52d44df2479626eb3d"
+        "md5": "3a61c4ec506cffdd778b4deb3b60c298"
     },
     {
         "path": "media",
@@ -660,6 +660,31 @@
         "md5": false
     },
     {
+        "path": "/media/posts/9/FiraCodeLig.png",
+        "type": "file",
+        "md5": "a105199c7876a6bb496cac3079c7b148"
+    },
+    {
+        "path": "/media/posts/9/IBMPlexMonoItalics.png",
+        "type": "file",
+        "md5": "b450b59be7168a7ff4d05f882e7eaf48"
+    },
+    {
+        "path": "/media/posts/9/JetBrainsMonoItalics.png",
+        "type": "file",
+        "md5": "99ac1d682fd895c1b281026a863b30b3"
+    },
+    {
+        "path": "/media/posts/9/JetBrainsMonoLig-2.png",
+        "type": "file",
+        "md5": "e160bbddf34956a3c2cd5657efd9c814"
+    },
+    {
+        "path": "/media/posts/9/VictorMonoLig.png",
+        "type": "file",
+        "md5": "520ab3e11900a9d545b60236201850c0"
+    },
+    {
         "path": "/media/posts/9/bestCodingFontsItalicLigature.png",
         "type": "file",
         "md5": "18fce673290a8d5676e5692744632bf6"
@@ -673,6 +698,106 @@
         "path": "media/posts/9/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/FiraCodeLig-lg.png",
+        "type": "file",
+        "md5": "efb0ea9bb3e6702f78f391ad372cec11"
+    },
+    {
+        "path": "/media/posts/9/responsive/FiraCodeLig-md.png",
+        "type": "file",
+        "md5": "31922ceb8825ff988b64dd45039e7640"
+    },
+    {
+        "path": "/media/posts/9/responsive/FiraCodeLig-sm.png",
+        "type": "file",
+        "md5": "bf525255bb290d982c3cbb85d5d6d92c"
+    },
+    {
+        "path": "/media/posts/9/responsive/FiraCodeLig-xs.png",
+        "type": "file",
+        "md5": "57a836ec3cde4078c039c31fa597d70d"
+    },
+    {
+        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-lg.png",
+        "type": "file",
+        "md5": "63c0377b61af1d2db7e6f02974aee822"
+    },
+    {
+        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-md.png",
+        "type": "file",
+        "md5": "3d38a5c4bcff388ad07983ed9b3490c6"
+    },
+    {
+        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-sm.png",
+        "type": "file",
+        "md5": "2cb4b5317b9d85da9011e35f06c6d391"
+    },
+    {
+        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-xs.png",
+        "type": "file",
+        "md5": "75202b572e67e0c877288e195b7e1826"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-lg.png",
+        "type": "file",
+        "md5": "407b4bbf36e8e19ebbc8908f4879b484"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-md.png",
+        "type": "file",
+        "md5": "31d94f5c5d3dd052283dec3df12a6f1e"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-sm.png",
+        "type": "file",
+        "md5": "4df435d1591b551c0ec759062a2829a1"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-xs.png",
+        "type": "file",
+        "md5": "0e2773699ce14a0f37e173b66ce3c0a0"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-lg.png",
+        "type": "file",
+        "md5": "1e59168c1cac90044128439591c27a8d"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-md.png",
+        "type": "file",
+        "md5": "8172b60049b6aeea5131d51a7d6a96cb"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-sm.png",
+        "type": "file",
+        "md5": "7145d5c6db4ee902699b230d4bdd839e"
+    },
+    {
+        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-xs.png",
+        "type": "file",
+        "md5": "9e2005de49c0ac446ece24ba9d40e7f7"
+    },
+    {
+        "path": "/media/posts/9/responsive/VictorMonoLig-lg.png",
+        "type": "file",
+        "md5": "46c4a859c2eb1b9858f7ec19cb200fee"
+    },
+    {
+        "path": "/media/posts/9/responsive/VictorMonoLig-md.png",
+        "type": "file",
+        "md5": "c462d4fd55bdc065b0e95abe6e94abc6"
+    },
+    {
+        "path": "/media/posts/9/responsive/VictorMonoLig-sm.png",
+        "type": "file",
+        "md5": "a49e313b48e929d20da32b9f5635fb0e"
+    },
+    {
+        "path": "/media/posts/9/responsive/VictorMonoLig-xs.png",
+        "type": "file",
+        "md5": "2675f6cfe8f5abd161f95183050631bd"
     },
     {
         "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-2xl.png",
@@ -728,6 +853,31 @@
         "path": "/media/posts/9/responsive/operator-mono-2-xs.png",
         "type": "file",
         "md5": "1bdc81647f0d7fa72a484a195fe7d071"
+    },
+    {
+        "path": "/media/posts/9/responsive/victorMonoItalic-lg.png",
+        "type": "file",
+        "md5": "59ea07bc2a3af586aadcbce48cd19750"
+    },
+    {
+        "path": "/media/posts/9/responsive/victorMonoItalic-md.png",
+        "type": "file",
+        "md5": "67313a3531b82a0b83a1a34e64c1b4bf"
+    },
+    {
+        "path": "/media/posts/9/responsive/victorMonoItalic-sm.png",
+        "type": "file",
+        "md5": "62ab64f606b4ece3c1059f62b6529798"
+    },
+    {
+        "path": "/media/posts/9/responsive/victorMonoItalic-xs.png",
+        "type": "file",
+        "md5": "3b76f748b9fb75495c477c11e1cfbc4a"
+    },
+    {
+        "path": "/media/posts/9/victorMonoItalic.png",
+        "type": "file",
+        "md5": "5dddf94a47b90c75475e26e85773f2ab"
     },
     {
         "path": "media/website",
@@ -822,7 +972,7 @@
     {
         "path": "/monospaced-fonts/index.html",
         "type": "file",
-        "md5": "cde0e69bcd0b80c6f7cad36ea331263d"
+        "md5": "42a6582398d06e0d91de31031d806695"
     },
     {
         "path": "robots.txt",
@@ -832,12 +982,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "85287a5fa9f10b13402acc7aabbe54b9"
+        "md5": "9d4b3030bbacaea7edc2b7ca612c717a"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0fd832de0d8cca75c6971c0d2e5eb8f2"
+        "md5": "9e919f419c5a18f70c957e2138409daa"
     },
     {
         "path": "sitemap.xsl",
@@ -857,7 +1007,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "79ec75924d189047c5560a9195c74d9b"
+        "md5": "045a96fdb9bffb23c22e33879fe3260b"
     },
     {
         "path": "tags/fonts",
@@ -867,12 +1017,12 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "1a7c539d098196c72df65e4b94ee3fe8"
+        "md5": "d86df1c825c7552845da4c367afd7f47"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "eecc46529f37b87cab23faa580926156"
+        "md5": "23e37b3dc21c3c15b6853aef4d1da7f3"
     },
     {
         "path": "we-just-launched-something-new",
@@ -882,6 +1032,6 @@
     {
         "path": "/we-just-launched-something-new/index.html",
         "type": "file",
-        "md5": "ee7040e74b622f73445db379d4dad642"
+        "md5": "e59030dcea2d1cc28097a3d37da92a0d"
     }
 ]
