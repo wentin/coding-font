@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-06-05T22:57:57-04:00</updated>
+    <updated>2022-06-05T23:19:15-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-05T22:57:57-04:00</updated>
+        <updated>2022-06-05T23:19:15-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
@@ -37,10 +37,11 @@
 <figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/9/operator-mono-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-lg.png 1024w"  alt="Operator Mono regular and Italic " width="1088" height="631">
 <figcaption >Operator Mono regular and Italic </figcaption>
 </figure>
+<h1> </h1>
 <h1><span style="font-weight: 400;">Monospaced Coding Font with True Italic</span></h1>
 <p> </p>
-<p><span style="font-weight: 400;">For context, italics come in two flavors: faux and true. Many fonts offer slightly slanted versions derived from the original letterforms. This slanted version of italic is called <a href="https://fontdiscovery.typogram.co/p/designindex" target="_blank" rel="noopener noreferrer">faux italic.</a></span></p>
-<p><span style="font-weight: 400;">On the other hand, true italics offer more visual distinctiveness:  Rather than simply slanted, they look very different from the fonts’ regular versions –– italic letters are distinctive. The <a href="https://fontdiscovery.typogram.co/p/designindex" target="_blank" rel="noopener noreferrer">true italic</a> takes inspiration from calligraphy or cursive writings in Operator Mono. </span></p>
+<p><span style="font-weight: 400;">For context, italics come in two flavors: faux and true. Many fonts offer slightly slanted versions derived from the original letterforms. This slanted version of italic is called <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography#FauxFontStyle">faux italic.</a></span></p>
+<p><span style="font-weight: 400;">On the other hand, true italics offer more visual distinctiveness:  Rather than simply slanted, they look very different from the fonts’ regular versions –– italic letters are distinctive. The <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography#FauxFontStyle">true italic</a> takes inspiration from calligraphy or cursive writings in Operator Mono. </span></p>
 <p><span style="font-weight: 400;">Since many IDE themes use italics for comments and keywords, having uniquely different italics is incredibly helpful in making these stand out and easier to read. </span></p>
 <p><span style="font-weight: 400;">Here are three fantastic, free, and open-sourced coding fonts with true italics, similar to Operator Mono.</span></p>
 <h2>Victor Mono </h2>
