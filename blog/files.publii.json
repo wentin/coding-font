@@ -107,7 +107,7 @@
     {
         "path": "/authors/hua-shu/index.html",
         "type": "file",
-        "md5": "e4d64a9eaf1c4bc0cb765a4b4b6862a4"
+        "md5": "d5bd201fd909183bc4092fb32f922429"
     },
     {
         "path": "authors/wenting-zhang",
@@ -127,27 +127,27 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "c827d34ba58e5f0d0d08517d0f946fb6"
+        "md5": "f26fd47bca87a3a294c8ec385eb39d96"
     },
     {
-        "path": "best-free-coding-fonts-with-italics-and-programming-ligatures",
+        "path": "coding-font-with-italic-and-programming-ligature",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/best-free-coding-fonts-with-italics-and-programming-ligatures/index.html",
+        "path": "/coding-font-with-italic-and-programming-ligature/index.html",
         "type": "file",
-        "md5": "f544e3e4d9fcfa6d453a2e6e1906ae4f"
+        "md5": "3a3416cfc563a3e6d6c900907b733997"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b0ca6996799ef93431d1d90a043434d4"
+        "md5": "26ab2782ea07256369a0548d8846d106"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "eb68dd8fbea730fd85721564771996b2"
+        "md5": "53281ec39b2efa3233fc076df351c83f"
     },
     {
         "path": "how-i-created-a-product-with-low-code",
@@ -157,7 +157,7 @@
     {
         "path": "/how-i-created-a-product-with-low-code/index.html",
         "type": "file",
-        "md5": "945f361cdd731aae6b7c05b48366f0d9"
+        "md5": "cdd7507ca8f4217685a4677ae9db6791"
     },
     {
         "path": "how-to-create-good-landing-pages",
@@ -172,7 +172,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3a61c4ec506cffdd778b4deb3b60c298"
+        "md5": "610603109e4f7a3cae5dd4a2e634601f"
     },
     {
         "path": "media",
@@ -183,6 +183,231 @@
         "path": "media/posts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/FiraCodeLig.png",
+        "type": "file",
+        "md5": "a105199c7876a6bb496cac3079c7b148"
+    },
+    {
+        "path": "/media/posts/12/IBMPlexMonoItalics.png",
+        "type": "file",
+        "md5": "b450b59be7168a7ff4d05f882e7eaf48"
+    },
+    {
+        "path": "/media/posts/12/JetBrainsMonoItalics.png",
+        "type": "file",
+        "md5": "99ac1d682fd895c1b281026a863b30b3"
+    },
+    {
+        "path": "/media/posts/12/JetBrainsMonoLig-2.png",
+        "type": "file",
+        "md5": "e160bbddf34956a3c2cd5657efd9c814"
+    },
+    {
+        "path": "/media/posts/12/VictorMonoLig.png",
+        "type": "file",
+        "md5": "520ab3e11900a9d545b60236201850c0"
+    },
+    {
+        "path": "/media/posts/12/bestCodingFontsItalicLigature.png",
+        "type": "file",
+        "md5": "18fce673290a8d5676e5692744632bf6"
+    },
+    {
+        "path": "/media/posts/12/operator-mono-2.png",
+        "type": "file",
+        "md5": "e23d3b9830d0a9fa47d7e4b0c6f94588"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/FiraCodeLig-lg.png",
+        "type": "file",
+        "md5": "efb0ea9bb3e6702f78f391ad372cec11"
+    },
+    {
+        "path": "/media/posts/12/responsive/FiraCodeLig-md.png",
+        "type": "file",
+        "md5": "31922ceb8825ff988b64dd45039e7640"
+    },
+    {
+        "path": "/media/posts/12/responsive/FiraCodeLig-sm.png",
+        "type": "file",
+        "md5": "bf525255bb290d982c3cbb85d5d6d92c"
+    },
+    {
+        "path": "/media/posts/12/responsive/FiraCodeLig-xs.png",
+        "type": "file",
+        "md5": "57a836ec3cde4078c039c31fa597d70d"
+    },
+    {
+        "path": "/media/posts/12/responsive/IBMPlexMonoItalics-lg.png",
+        "type": "file",
+        "md5": "63c0377b61af1d2db7e6f02974aee822"
+    },
+    {
+        "path": "/media/posts/12/responsive/IBMPlexMonoItalics-md.png",
+        "type": "file",
+        "md5": "3d38a5c4bcff388ad07983ed9b3490c6"
+    },
+    {
+        "path": "/media/posts/12/responsive/IBMPlexMonoItalics-sm.png",
+        "type": "file",
+        "md5": "2cb4b5317b9d85da9011e35f06c6d391"
+    },
+    {
+        "path": "/media/posts/12/responsive/IBMPlexMonoItalics-xs.png",
+        "type": "file",
+        "md5": "75202b572e67e0c877288e195b7e1826"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoItalics-lg.png",
+        "type": "file",
+        "md5": "407b4bbf36e8e19ebbc8908f4879b484"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoItalics-md.png",
+        "type": "file",
+        "md5": "31d94f5c5d3dd052283dec3df12a6f1e"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoItalics-sm.png",
+        "type": "file",
+        "md5": "4df435d1591b551c0ec759062a2829a1"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoItalics-xs.png",
+        "type": "file",
+        "md5": "0e2773699ce14a0f37e173b66ce3c0a0"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoLig-2-lg.png",
+        "type": "file",
+        "md5": "1e59168c1cac90044128439591c27a8d"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoLig-2-md.png",
+        "type": "file",
+        "md5": "8172b60049b6aeea5131d51a7d6a96cb"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoLig-2-sm.png",
+        "type": "file",
+        "md5": "7145d5c6db4ee902699b230d4bdd839e"
+    },
+    {
+        "path": "/media/posts/12/responsive/JetBrainsMonoLig-2-xs.png",
+        "type": "file",
+        "md5": "9e2005de49c0ac446ece24ba9d40e7f7"
+    },
+    {
+        "path": "/media/posts/12/responsive/VictorMonoLig-lg.png",
+        "type": "file",
+        "md5": "46c4a859c2eb1b9858f7ec19cb200fee"
+    },
+    {
+        "path": "/media/posts/12/responsive/VictorMonoLig-md.png",
+        "type": "file",
+        "md5": "c462d4fd55bdc065b0e95abe6e94abc6"
+    },
+    {
+        "path": "/media/posts/12/responsive/VictorMonoLig-sm.png",
+        "type": "file",
+        "md5": "a49e313b48e929d20da32b9f5635fb0e"
+    },
+    {
+        "path": "/media/posts/12/responsive/VictorMonoLig-xs.png",
+        "type": "file",
+        "md5": "2675f6cfe8f5abd161f95183050631bd"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-2xl.png",
+        "type": "file",
+        "md5": "9603b5adadcf71eb82de55820baefc12"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-lg.png",
+        "type": "file",
+        "md5": "84007e2b276226e3808af33e85f30093"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-md.png",
+        "type": "file",
+        "md5": "805f2ff7fe0853f0098fcc649be0005b"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-sm.png",
+        "type": "file",
+        "md5": "739726add3c446ca87566fea7c59f402"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-sm2.png",
+        "type": "file",
+        "md5": "68fe93b1b3cbdc6c6b43c647b5d8037a"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-xl.png",
+        "type": "file",
+        "md5": "83f6e6f3bd8ee7a702ed2e9629379180"
+    },
+    {
+        "path": "/media/posts/12/responsive/bestCodingFontsItalicLigature-xs.png",
+        "type": "file",
+        "md5": "2b9cbd46774b064ce418a6e909e7732b"
+    },
+    {
+        "path": "/media/posts/12/responsive/operator-mono-2-lg.png",
+        "type": "file",
+        "md5": "1cbeedbac2c65514e083e21ce33ab48c"
+    },
+    {
+        "path": "/media/posts/12/responsive/operator-mono-2-md.png",
+        "type": "file",
+        "md5": "1cbeedbac2c65514e083e21ce33ab48c"
+    },
+    {
+        "path": "/media/posts/12/responsive/operator-mono-2-sm.png",
+        "type": "file",
+        "md5": "7795f2805ed8586ac493a03b5883b875"
+    },
+    {
+        "path": "/media/posts/12/responsive/operator-mono-2-xs.png",
+        "type": "file",
+        "md5": "1bdc81647f0d7fa72a484a195fe7d071"
+    },
+    {
+        "path": "/media/posts/12/responsive/victorMonoItalic-lg.png",
+        "type": "file",
+        "md5": "59ea07bc2a3af586aadcbce48cd19750"
+    },
+    {
+        "path": "/media/posts/12/responsive/victorMonoItalic-md.png",
+        "type": "file",
+        "md5": "67313a3531b82a0b83a1a34e64c1b4bf"
+    },
+    {
+        "path": "/media/posts/12/responsive/victorMonoItalic-sm.png",
+        "type": "file",
+        "md5": "62ab64f606b4ece3c1059f62b6529798"
+    },
+    {
+        "path": "/media/posts/12/responsive/victorMonoItalic-xs.png",
+        "type": "file",
+        "md5": "3b76f748b9fb75495c477c11e1cfbc4a"
+    },
+    {
+        "path": "/media/posts/12/victorMonoItalic.png",
+        "type": "file",
+        "md5": "5dddf94a47b90c75475e26e85773f2ab"
     },
     {
         "path": "media/posts/2",
@@ -655,231 +880,6 @@
         "md5": "0b02f42329115e2f08553af08e79fb03"
     },
     {
-        "path": "media/posts/9",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/9/FiraCodeLig.png",
-        "type": "file",
-        "md5": "a105199c7876a6bb496cac3079c7b148"
-    },
-    {
-        "path": "/media/posts/9/IBMPlexMonoItalics.png",
-        "type": "file",
-        "md5": "b450b59be7168a7ff4d05f882e7eaf48"
-    },
-    {
-        "path": "/media/posts/9/JetBrainsMonoItalics.png",
-        "type": "file",
-        "md5": "99ac1d682fd895c1b281026a863b30b3"
-    },
-    {
-        "path": "/media/posts/9/JetBrainsMonoLig-2.png",
-        "type": "file",
-        "md5": "e160bbddf34956a3c2cd5657efd9c814"
-    },
-    {
-        "path": "/media/posts/9/VictorMonoLig.png",
-        "type": "file",
-        "md5": "520ab3e11900a9d545b60236201850c0"
-    },
-    {
-        "path": "/media/posts/9/bestCodingFontsItalicLigature.png",
-        "type": "file",
-        "md5": "18fce673290a8d5676e5692744632bf6"
-    },
-    {
-        "path": "/media/posts/9/operator-mono-2.png",
-        "type": "file",
-        "md5": "e23d3b9830d0a9fa47d7e4b0c6f94588"
-    },
-    {
-        "path": "media/posts/9/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/9/responsive/FiraCodeLig-lg.png",
-        "type": "file",
-        "md5": "efb0ea9bb3e6702f78f391ad372cec11"
-    },
-    {
-        "path": "/media/posts/9/responsive/FiraCodeLig-md.png",
-        "type": "file",
-        "md5": "31922ceb8825ff988b64dd45039e7640"
-    },
-    {
-        "path": "/media/posts/9/responsive/FiraCodeLig-sm.png",
-        "type": "file",
-        "md5": "bf525255bb290d982c3cbb85d5d6d92c"
-    },
-    {
-        "path": "/media/posts/9/responsive/FiraCodeLig-xs.png",
-        "type": "file",
-        "md5": "57a836ec3cde4078c039c31fa597d70d"
-    },
-    {
-        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-lg.png",
-        "type": "file",
-        "md5": "63c0377b61af1d2db7e6f02974aee822"
-    },
-    {
-        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-md.png",
-        "type": "file",
-        "md5": "3d38a5c4bcff388ad07983ed9b3490c6"
-    },
-    {
-        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-sm.png",
-        "type": "file",
-        "md5": "2cb4b5317b9d85da9011e35f06c6d391"
-    },
-    {
-        "path": "/media/posts/9/responsive/IBMPlexMonoItalics-xs.png",
-        "type": "file",
-        "md5": "75202b572e67e0c877288e195b7e1826"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-lg.png",
-        "type": "file",
-        "md5": "407b4bbf36e8e19ebbc8908f4879b484"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-md.png",
-        "type": "file",
-        "md5": "31d94f5c5d3dd052283dec3df12a6f1e"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-sm.png",
-        "type": "file",
-        "md5": "4df435d1591b551c0ec759062a2829a1"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoItalics-xs.png",
-        "type": "file",
-        "md5": "0e2773699ce14a0f37e173b66ce3c0a0"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-lg.png",
-        "type": "file",
-        "md5": "1e59168c1cac90044128439591c27a8d"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-md.png",
-        "type": "file",
-        "md5": "8172b60049b6aeea5131d51a7d6a96cb"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-sm.png",
-        "type": "file",
-        "md5": "7145d5c6db4ee902699b230d4bdd839e"
-    },
-    {
-        "path": "/media/posts/9/responsive/JetBrainsMonoLig-2-xs.png",
-        "type": "file",
-        "md5": "9e2005de49c0ac446ece24ba9d40e7f7"
-    },
-    {
-        "path": "/media/posts/9/responsive/VictorMonoLig-lg.png",
-        "type": "file",
-        "md5": "46c4a859c2eb1b9858f7ec19cb200fee"
-    },
-    {
-        "path": "/media/posts/9/responsive/VictorMonoLig-md.png",
-        "type": "file",
-        "md5": "c462d4fd55bdc065b0e95abe6e94abc6"
-    },
-    {
-        "path": "/media/posts/9/responsive/VictorMonoLig-sm.png",
-        "type": "file",
-        "md5": "a49e313b48e929d20da32b9f5635fb0e"
-    },
-    {
-        "path": "/media/posts/9/responsive/VictorMonoLig-xs.png",
-        "type": "file",
-        "md5": "2675f6cfe8f5abd161f95183050631bd"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-2xl.png",
-        "type": "file",
-        "md5": "9603b5adadcf71eb82de55820baefc12"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-lg.png",
-        "type": "file",
-        "md5": "84007e2b276226e3808af33e85f30093"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-md.png",
-        "type": "file",
-        "md5": "805f2ff7fe0853f0098fcc649be0005b"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-sm.png",
-        "type": "file",
-        "md5": "739726add3c446ca87566fea7c59f402"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-sm2.png",
-        "type": "file",
-        "md5": "68fe93b1b3cbdc6c6b43c647b5d8037a"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-xl.png",
-        "type": "file",
-        "md5": "83f6e6f3bd8ee7a702ed2e9629379180"
-    },
-    {
-        "path": "/media/posts/9/responsive/bestCodingFontsItalicLigature-xs.png",
-        "type": "file",
-        "md5": "2b9cbd46774b064ce418a6e909e7732b"
-    },
-    {
-        "path": "/media/posts/9/responsive/operator-mono-2-lg.png",
-        "type": "file",
-        "md5": "1cbeedbac2c65514e083e21ce33ab48c"
-    },
-    {
-        "path": "/media/posts/9/responsive/operator-mono-2-md.png",
-        "type": "file",
-        "md5": "1cbeedbac2c65514e083e21ce33ab48c"
-    },
-    {
-        "path": "/media/posts/9/responsive/operator-mono-2-sm.png",
-        "type": "file",
-        "md5": "7795f2805ed8586ac493a03b5883b875"
-    },
-    {
-        "path": "/media/posts/9/responsive/operator-mono-2-xs.png",
-        "type": "file",
-        "md5": "1bdc81647f0d7fa72a484a195fe7d071"
-    },
-    {
-        "path": "/media/posts/9/responsive/victorMonoItalic-lg.png",
-        "type": "file",
-        "md5": "59ea07bc2a3af586aadcbce48cd19750"
-    },
-    {
-        "path": "/media/posts/9/responsive/victorMonoItalic-md.png",
-        "type": "file",
-        "md5": "67313a3531b82a0b83a1a34e64c1b4bf"
-    },
-    {
-        "path": "/media/posts/9/responsive/victorMonoItalic-sm.png",
-        "type": "file",
-        "md5": "62ab64f606b4ece3c1059f62b6529798"
-    },
-    {
-        "path": "/media/posts/9/responsive/victorMonoItalic-xs.png",
-        "type": "file",
-        "md5": "3b76f748b9fb75495c477c11e1cfbc4a"
-    },
-    {
-        "path": "/media/posts/9/victorMonoItalic.png",
-        "type": "file",
-        "md5": "5dddf94a47b90c75475e26e85773f2ab"
-    },
-    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -972,7 +972,7 @@
     {
         "path": "/monospaced-fonts/index.html",
         "type": "file",
-        "md5": "42a6582398d06e0d91de31031d806695"
+        "md5": "ede6546a4d47c9652e54f4c0c2c8ce15"
     },
     {
         "path": "robots.txt",
@@ -987,7 +987,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "23ae3af605efa39762520d1dbf7e6e81"
+        "md5": "8c7a690612083e7045e30462ca43e083"
     },
     {
         "path": "sitemap.xsl",
@@ -1007,7 +1007,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "045a96fdb9bffb23c22e33879fe3260b"
+        "md5": "974261c957965b47f2112566e0489df3"
     },
     {
         "path": "tags/fonts",
@@ -1017,7 +1017,7 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "d86df1c825c7552845da4c367afd7f47"
+        "md5": "8eeeaa21058998c3589773699d2eed6f"
     },
     {
         "path": "/tags/index.html",
@@ -1032,6 +1032,6 @@
     {
         "path": "/we-just-launched-something-new/index.html",
         "type": "file",
-        "md5": "e59030dcea2d1cc28097a3d37da92a0d"
+        "md5": "5b37e8c5fcddb34f12d986c05f0bc99c"
     }
 ]

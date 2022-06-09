@@ -3,38 +3,38 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-06-05T23:28:35-04:00</updated>
+    <updated>2022-06-08T21:00:29-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://www.codingfont.com/blog</id>
 
     <entry>
-        <title>Free Coding Fonts with Italics and Programming Ligatures</title>
+        <title>Coding Fonts with Italics and Programming Ligatures</title>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.codingfont.com/blog/best-free-coding-fonts-with-italics-and-programming-ligatures/"/>
-        <id>https://www.codingfont.com/blog/best-free-coding-fonts-with-italics-and-programming-ligatures/</id>
+        <link href="https://www.codingfont.com/blog/coding-font-with-italic-and-programming-ligature/"/>
+        <id>https://www.codingfont.com/blog/coding-font-with-italic-and-programming-ligature/</id>
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-05T23:28:35-04:00</updated>
+        <updated>2022-06-08T21:00:29-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
+                        <img src="https://www.codingfont.com/blog/media/posts/12/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
                     Hi there! We recently launched a brand home page for our start-up,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.codingfont.com/blog/media/posts/9/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
+                    <img src="https://www.codingfont.com/blog/media/posts/12/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
                 <p><em>Hi there! We recently launched a brand home page for our start-up, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram</a>, an easy tp use logo design tool for absolute beginners. <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Check it out</a>✨ If you want to stay in touch, sign-up for our <a href="https://build.typogram.co/" title="buildinpublic newsletter" target="_blank" rel="noopener noreferrer">build-up-public</a> newsletter updates.</em></p>
 <hr>
 <p><span style="font-weight: 400;">Operator Mono is one of the most popular paid coding fonts. A quick search would reveal <a href="https://kennethreitz.org/essays/2016/11/09/test-driving-a-200-programming-font-operator-mono" target="_blank" rel="noopener noreferrer">several posts</a> on the internet reviewing the font. </span></p>
 <p><span style="font-weight: 400;">Operator Mono is something I would like for my daily use; however, as a scrappy entrepreneur trying to build a startup, dropping $200 isn’t an option. Naturally, I looked for open source alternatives similar to Operator Mono that I can use in my code editor to increase workflow. </span></p>
 <p><span style="font-weight: 400;">Before talking about good free alternatives to <a href="https://www.typography.com/blog/introducing-operator" target="_blank" rel="noopener noreferrer">Operator Mono</a>, I would like to point out its most unique design feature –– Operator Mono’s “true italic,” which improves the coding experience by making comments and keywords more quickly identifiable.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/9/operator-mono-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/operator-mono-2-lg.png 1024w"  alt="Operator Mono regular and Italic " width="1088" height="631">
+<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/12/operator-mono-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-lg.png 1024w"  alt="Operator Mono regular and Italic " width="1088" height="631">
 <figcaption >Operator Mono regular and Italic </figcaption>
 </figure>
 <h1> </h1>
@@ -46,19 +46,19 @@
 <p><span style="font-weight: 400;">Here are three fantastic, free, and open-sourced coding fonts with true italics, similar to Operator Mono.</span></p>
 <h2>Victor Mono </h2>
 <p><span style="font-weight: 400;">Like Operator Mono, <a href="https://rubjo.github.io/victor-mono/" target="_blank" rel="noopener noreferrer">Victor Mono</a> takes inspiration from cursive style letterforms to create true italics that make keywords and comments stand out. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/9/victorMonoItalic.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/victorMonoItalic-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/victorMonoItalic-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/victorMonoItalic-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/victorMonoItalic-lg.png 1024w"  alt="Victor Mono Italics" width="844" height="227">
+<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/12/victorMonoItalic.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/victorMonoItalic-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/victorMonoItalic-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/victorMonoItalic-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/victorMonoItalic-lg.png 1024w"  alt="Victor Mono Italics" width="844" height="227">
 <figcaption >Victor Mono Italics</figcaption>
 </figure>
 <div id="victor-mono-tester" class="ele-font-tester paragraph-tester"></div>
 <h2>IBM Plex Mono</h2>
 <p><span style="font-weight: 400;">Though cursive-style letters look distinct, they may not be the best reading experience for everyone. <a href="https://fonts.google.com/specimen/IBM+Plex+Mono" target="_blank" rel="noopener noreferrer">IBM Plex Mono</a> is a great coding font if you feel more at ease reading without the cursive letterforms. Its italic has style influence from cursives but still looks monospaced and remains distinctive enough to stand out from the normal version. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/9/IBMPlexMonoItalics.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/IBMPlexMonoItalics-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/IBMPlexMonoItalics-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/IBMPlexMonoItalics-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/IBMPlexMonoItalics-lg.png 1024w"  alt="IBM Plex Mono Italics" width="842" height="230">
+<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/12/IBMPlexMonoItalics.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/IBMPlexMonoItalics-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/IBMPlexMonoItalics-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/IBMPlexMonoItalics-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/IBMPlexMonoItalics-lg.png 1024w"  alt="IBM Plex Mono Italics" width="842" height="230">
 <figcaption >IBM Plex Mono Italics</figcaption>
 </figure>
 <div id="ibm-plex-tester" class="ele-font-tester paragraph-tester"></div>
 <h2>JetBrain Mono </h2>
 <p><span style="font-weight: 400;">A quiet rebel, <a href="https://www.jetbrains.com/lp/mono/" target="_blank" rel="noopener noreferrer">JetBrains Mono</a>’s italic is more muted than all the coding fonts we have covered to minimize reading disruptions. JetBrains Mono uses true italic construction for only three of its letters, “a”, “y”, and “f”, and features a small degree of slant.</span></p>
-<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/9/JetBrainsMonoItalics.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoItalics-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoItalics-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoItalics-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoItalics-lg.png 1024w"  alt="JetBrain Mono Italics" width="843" height="300"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/12/JetBrainsMonoItalics.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoItalics-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoItalics-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoItalics-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoItalics-lg.png 1024w"  alt="JetBrain Mono Italics" width="843" height="300"></figure>
 <figcaption >JetBrain Mono Italics</figcaption>
 </figure>
 <div id="jetbrains-mono-tester" class="ele-font-tester paragraph-tester"></div>
@@ -70,19 +70,19 @@
 <p><span style="font-weight: 400;">Though Operator Mono does not currently support any ligatures, two of the fonts we featured in this post do –– Victor Mono and JetBrains Mono. Fira Code also has a popular ligature set that many programmers use to configure fonts like Operator Mono or Source Code Pro, which lacks programming ligatures of their own. </span></p>
 <h2>Victor Mono </h2>
 <p><span style="font-weight: 400;">In addition to true italic, another bonus about Victor Mono is that it has programming ligatures that make things like arrow, "=&gt;",  easy. Coding ligature is a feature Operator Mono is yet to have. </span></p>
-<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/9/VictorMonoLig.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/VictorMonoLig-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/VictorMonoLig-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/VictorMonoLig-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/VictorMonoLig-lg.png 1024w"  alt="Victor Mono Programming Ligatures" width="846" height="338"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/12/VictorMonoLig.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/VictorMonoLig-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/VictorMonoLig-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/VictorMonoLig-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/VictorMonoLig-lg.png 1024w"  alt="Victor Mono Programming Ligatures" width="846" height="338"></figure>
 <figcaption >Victor Mono Programming Ligatures</figcaption>
 </figure>
 <div id="victor-mono-lig-tester" class="ele-font-tester paragraph-tester"></div>
 <h2>JetBrains Mono</h2>
 <p><span style="font-weight: 400;">JetBrains Mono features an excellent set of ligatures for programming to reduce the noise of multiple letters in your code.</span></p>
-<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/9/JetBrainsMonoLig-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoLig-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoLig-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoLig-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/JetBrainsMonoLig-2-lg.png 1024w"  alt="JetBrains Mono Programming Ligatures" width="843" height="229"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.codingfont.com/blog/media/posts/12/JetBrainsMonoLig-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoLig-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoLig-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoLig-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/JetBrainsMonoLig-2-lg.png 1024w"  alt="JetBrains Mono Programming Ligatures" width="843" height="229"></figure>
 <figcaption >JetBrains Mono Programming Ligatures</figcaption>
 </figure>
 <div id="jetbrains-mono-lig-tester" class="ele-font-tester paragraph-tester"></div>
 <h2>Fira Code</h2>
 <p><span style="font-weight: 400;"><a target="_blank" rel="noopener noreferrer"></a><a href="https://fonts.google.com/specimen/Fira+Code" target="_blank" rel="noopener noreferrer">Fira Code</a> is one of the most popular coding fonts with ligatures. It is so popular that many use Fira Code’s ligature to add to other programming fonts that don’t have coding ligatures. Fira Code also does not have any italics. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/9/FiraCodeLig.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/9/responsive/FiraCodeLig-xs.png 300w ,https://www.codingfont.com/blog/media/posts/9/responsive/FiraCodeLig-sm.png 480w ,https://www.codingfont.com/blog/media/posts/9/responsive/FiraCodeLig-md.png 768w ,https://www.codingfont.com/blog/media/posts/9/responsive/FiraCodeLig-lg.png 1024w"  alt="Fira Code Programming Ligatures" width="843" height="235">
+<figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/12/FiraCodeLig.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/FiraCodeLig-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/FiraCodeLig-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/FiraCodeLig-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/FiraCodeLig-lg.png 1024w"  alt="Fira Code Programming Ligatures" width="843" height="235">
 <figcaption >Fira Code Programming Ligatures</figcaption>
 </figure>
 <div id="fira-mono-tester" class="ele-font-tester paragraph-tester"></div>
