@@ -3,7 +3,7 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-06-08T21:00:29-04:00</updated>
+    <updated>2022-06-14T22:44:52-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,19 +19,17 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-08T21:00:29-04:00</updated>
+        <updated>2022-06-14T22:43:50-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/12/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
-                    Hi there! We recently launched a brand home page for our start-up,&hellip;
+                    Operator Mono is one of the most popular paid coding fonts. A&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/12/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
-                <p><em>Hi there! We recently launched a brand home page for our start-up, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram</a>, an easy tp use logo design tool for absolute beginners. <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Check it out</a>✨ If you want to stay in touch, sign-up for our <a href="https://build.typogram.co/" title="buildinpublic newsletter" target="_blank" rel="noopener noreferrer">build-up-public</a> newsletter updates.</em></p>
-<hr>
-<p><span style="font-weight: 400;">Operator Mono is one of the most popular paid coding fonts. A quick search would reveal <a href="https://kennethreitz.org/essays/2016/11/09/test-driving-a-200-programming-font-operator-mono" target="_blank" rel="noopener noreferrer">several posts</a> on the internet reviewing the font. </span></p>
+                <p><span style="font-weight: 400;">Operator Mono is one of the most popular paid coding fonts. A quick search would reveal <a href="https://kennethreitz.org/essays/2016/11/09/test-driving-a-200-programming-font-operator-mono" target="_blank" rel="noopener noreferrer">several posts</a> on the internet reviewing the font. </span></p>
 <p><span style="font-weight: 400;">Operator Mono is something I would like for my daily use; however, as a scrappy entrepreneur trying to build a startup, dropping $200 isn’t an option. Naturally, I looked for open source alternatives similar to Operator Mono that I can use in my code editor to increase workflow. </span></p>
 <p><span style="font-weight: 400;">Before talking about good free alternatives to <a href="https://www.typography.com/blog/introducing-operator" target="_blank" rel="noopener noreferrer">Operator Mono</a>, I would like to point out its most unique design feature –– Operator Mono’s “true italic,” which improves the coding experience by making comments and keywords more quickly identifiable.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/12/operator-mono-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-xs.png 300w ,https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-sm.png 480w ,https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-md.png 768w ,https://www.codingfont.com/blog/media/posts/12/responsive/operator-mono-2-lg.png 1024w"  alt="Operator Mono regular and Italic " width="1088" height="631">
@@ -103,19 +101,17 @@
         <link href="https://www.codingfont.com/blog/we-just-launched-something-new/"/>
         <id>https://www.codingfont.com/blog/we-just-launched-something-new/</id>
 
-        <updated>2022-04-27T23:49:16-04:00</updated>
+        <updated>2022-06-14T22:44:04-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/8/post5-ourjourney-2.png" alt="we just launched typogram&#x27;s pre order!" />
-                    About Author: Hi, I am Wenting Zhang. I recently quit my job&hellip;
+                    Hint: it's a design app. Hi There! You might be reading this&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/8/post5-ourjourney-2.png" alt="we just launched typogram&#x27;s pre order!" />
-                <p><strong>About Author:</strong><br><em>Hi, I am Wenting Zhang. I recently quit my job of seven years to build my start-up, <a href="https://www.typogram.co/" target="_blank" rel="noopener noreferrer">Typogram</a>, logo design and editing tool for startup founders and absolute beginners.✨ If you want to stay in touch, sign-up for my <a href="#INTERNAL_LINK#/post/null" title="https://build.typogram.co/">build-up-public</a> newsletter updates.</em><br><br></p>
-<hr>
-<p><em>Hint: it's a design app.</em></p>
+                <p><em>Hint: it's a design app.</em></p>
 <p>Hi There! You might be reading this because we just launched our preorder page for our app, <a href="https://www.typogram.co/">Typogram</a>. Typogram is a design tool that we have been working on. Specifically, it’s a beginner-friendly logo design and editing tool for non-designers. <strong><em>Today, we are launching our pre-order. We are offering one brand lifetime license for $49.99, at 60% discount. You can create your brand inside our app and update it forever.</em></strong></p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7PHHaLh1zNU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h2>Why did we launch this? </h2>
@@ -157,20 +153,17 @@
         <link href="https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/"/>
         <id>https://www.codingfont.com/blog/how-i-created-a-product-with-low-code/</id>
 
-        <updated>2022-04-06T19:13:37-04:00</updated>
+        <updated>2022-06-14T22:44:20-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/7/buildingCodingFontWLowCode.png" alt="Create a Coding Font Game With Low Code" />
-                    About Author: Hi, I am Wenting Zhang. I recently quit my job&hellip;
+                    As engineers, we spend a lot of time in front of our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/7/buildingCodingFontWLowCode.png" alt="Create a Coding Font Game With Low Code" />
-                <p><em><strong>About Author:</strong></em> 
-<em>Hi, I am Wenting Zhang. I recently quit my job of seven years to build my start-up, Typogram, logo design and editing tool for startup founders and absolute beginners. We just launched our <a href="https://www.typogram.co/">pre-order</a>.✨ If you want to stay in touch, sign-up for my <a href="https://build.typogram.co/">build-up-public</a> updates.</em></p>
-<hr>
-<p>As engineers, we spend a lot of time in front of our computer screens. The coding font that we spend 8 hours a day staring at has a lot to do with our productivity and comfort. I am very picky about coding fonts and like to experiment with that setting to find the best balance. You too? That’s great because I made an app just for you! I will go through how we create <a href="https://codingfont.com/">CodingFont.com</a>—a gamified experience that helps you find your true love amongst coding fonts.</p>
+                <p>As engineers, we spend a lot of time in front of our computer screens. The coding font that we spend 8 hours a day staring at has a lot to do with our productivity and comfort. I am very picky about coding fonts and like to experiment with that setting to find the best balance. You too? That’s great because I made an app just for you! I will go through how we create <a href="https://codingfont.com/">CodingFont.com</a>—a gamified experience that helps you find your true love amongst coding fonts.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://www.codingfont.com/blog/media/posts/7/retool_codingfont-1-2.gif" alt="The winning screen of the coding font tournament" width="906" height="480" /></figure></p>
 <figcaption>The winning screen of the coding font tournament</figcaption>
 
@@ -224,20 +217,17 @@
         <link href="https://www.codingfont.com/blog/how-to-create-good-landing-pages/"/>
         <id>https://www.codingfont.com/blog/how-to-create-good-landing-pages/</id>
 
-        <updated>2022-04-06T17:56:12-04:00</updated>
+        <updated>2022-06-14T22:44:29-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/5/post-3-FourElementsLandingPage.png" alt="four elements of good landing pages" />
-                    About Author: Hi, I am Wenting Zhang. I recently quit my job&hellip;
+                    At Typogram, we are currently working on a pre-order landing page to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/5/post-3-FourElementsLandingPage.png" alt="four elements of good landing pages" />
-                <p><em><strong>About Author:</strong></em> 
-<em>Hi, I am Wenting Zhang. I recently quit my job of seven years to build my start-up, Typogram, logo design and editing tool for startup founders and absolute beginners. We just launched our pre-order.✨ If you want to stay in touch, sign-up for my build-up-public updates.</em></p>
-<hr>
-<p>At <a href="https://typogram.co/">Typogram</a>, we are currently working on a pre-order landing page to be launched in February. As we design the landing page, we look through a lot of successful landing page examples and try to learn from their successes.</p>
+                <p>At <a href="https://typogram.co/">Typogram</a>, we are currently working on a pre-order landing page to be launched in February. As we design the landing page, we look through a lot of successful landing page examples and try to learn from their successes.</p>
 <p>I am a design-focused and crafty person who could easily be carried away by visual design choices such as typography and layout. With this self-awareness, I need to remind myself what is more prioritized in a landing page design — it is conversion; it is to achieve business goals; it is NOT trying to win an Awwwards. I found there are four essential elements to a good landing page design:</p>
 <h2 id="1-straightforward-call-to-action">1. Straightforward Call to Action</h2>
 <p>A good landing page should have a straightforward, simple, and preferably single Call to Action above the fold. Above the fold means the Call to Action should be visible without having to scroll down. It should be paired up with a clear value proposition conveyed by hero images or videos— the above-the-fold section functions as a mini landing page within the landing page. It is designed to capture the core targeted users who can be convinced at first glance. 
@@ -281,19 +271,17 @@ Originally published on our build in publilc newsletter. <a href="https://build.
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-05T19:43:38-04:00</updated>
+        <updated>2022-06-14T22:44:41-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/3/coverFontDiscoveryMonospacedFonts-2.png" alt="Monospaced Fonts  For Your Startup, Coding &amp; Design  Needs" />
-                    About Author: Hi, I am Wenting Zhang. I recently quit my job&hellip;
+                    We covered monospaced fonts many times in our beloved FontDiscovery newsletter. (See&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/3/coverFontDiscoveryMonospacedFonts-2.png" alt="Monospaced Fonts  For Your Startup, Coding &amp; Design  Needs" />
-                <p><em><strong>About Author: </strong>Hi, I am <a href="https://twitter.com/DesignJokes" target="_blank" rel="nofollow noopener noreferrer">Wenting Zhang</a>. I recently quit my job of seven years to build my start-up, Typogram, logo design and editing tool for startup founders and absolute beginners. We just launched our <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typogram.co/">pre-order.</a>✨ If you want to stay in touch, <a href="https://build.typogram.co/" target="_blank" rel="noopener noreferrer">sign-up</a> for my build-up-public updates.</em></p>
-<hr>
-<p>We covered monospaced fonts many times in our beloved <a href="https://fontdiscovery.typogram.co/" target="_blank" rel="noopener noreferrer">FontDiscovery newsletter</a>. <em>(See our <a href="https://www.codingfont.com/blog/best-coding-fonts/" target="_blank" rel="noopener noreferrer">previous post</a> if you need a quick refresher on the history of monospaced fonts.) </em>Some are a part of an extensive font family, some standing strong on their own. One thing is for sure, people love to monospace fonts because some of these issues are our most popular. Here is a recap of the monospaced issues we have covered so far. You can try these fonts for as coding fonts, fonts for your web, app, or design projects and fonts for your branding and startup. </p>
+                <p>We covered monospaced fonts many times in our beloved <a href="https://fontdiscovery.typogram.co/" target="_blank" rel="noopener noreferrer">FontDiscovery newsletter</a>. <em>(See our <a href="https://www.codingfont.com/blog/best-coding-fonts/" target="_blank" rel="noopener noreferrer">previous post</a> if you need a quick refresher on the history of monospaced fonts.) </em>Some are a part of an extensive font family, some standing strong on their own. One thing is for sure, people love to monospace fonts because some of these issues are our most popular. Here is a recap of the monospaced issues we have covered so far. You can try these fonts for as coding fonts, fonts for your web, app, or design projects and fonts for your branding and startup. </p>
 <h3>Noto Sans Mono</h3>
 <p>We covered Noto in <a href="https://fontdiscovery.typogram.co/p/noto" target="_blank" rel="noopener noreferrer">FontDiscovery issue 42</a><a href="https://fonts.substack.com/p/noto" rel=""></a>. It is a joint project by several big tech companies (Google, Adobe, and Monotype) to eliminate “Tofu,” which is the box that shows up when there is a missing character. Taking the neutral tone and style elements from the Noto Sans, Noto Sans Mono is neutral and inviting. The monospaced version of Noto Sans is also available. It has several weights and italics for you to use. And you can toggle ligature if you need to. </p>
 <h4>Details</h4>
@@ -386,19 +374,17 @@ Originally published on our build in publilc newsletter. <a href="https://build.
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-05T23:27:22-04:00</updated>
+        <updated>2022-06-14T22:44:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/2/coverBestCodingFonts-2.png" alt="Our Top Three Picks of Coding Fonts" />
-                    About Author: Hi, I am Wenting Zhang. I recently quit my job&hellip;
+                    We spent so much time working inside our code editors every day&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.codingfont.com/blog/media/posts/2/coverBestCodingFonts-2.png" alt="Our Top Three Picks of Coding Fonts" />
-                <p><em><strong>About Author: </strong>Hi, I am <a href="https://twitter.com/DesignJokes" target="_blank" rel="nofollow noopener noreferrer">Wenting Zhang</a>. I recently quit my job of seven years to build my start-up, Typogram, logo design and editing tool for startup founders and absolute beginners. We just launched our <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typogram.co/">pre-order.</a>✨ If you want to stay in touch, <a href="https://build.typogram.co/" target="_blank" rel="noopener noreferrer">sign-up</a> for my build-up-public updates.</em></p>
-<hr>
-<p>We spent so much time working inside our code editors every day as engineers. Having a coding font that works for us while programming reduces our eye fatigue, increases productivity, and makes the code cleaner. In this post, we go over our favorite coding fonts and talk about the details of each, so you can decide which is the best for you. But first, for some background, let’s talk briefly about the history of monospaced fonts.</p>
+                <p>We spent so much time working inside our code editors every day as engineers. Having a coding font that works for us while programming reduces our eye fatigue, increases productivity, and makes the code cleaner. In this post, we go over our favorite coding fonts and talk about the details of each, so you can decide which is the best for you. But first, for some background, let’s talk briefly about the history of monospaced fonts.</p>
 <h2 id="heading-the-history-of-monospaced-fonts">The History of Monospaced Fonts</h2>
 <p>Monospaced fonts are fonts with the same fixed width. The earliest form originated to suit the needs of mechanical typewriters, which had a carriage that moved the paper the same distance every time someone pressed a key.</p>
 <p>Even though electric typewriters were introduced later with more choices of fonts, monospaced fonts stayed relevant. Their utilitarian functionality was easy to transfer to new technologies, especially the earliest computers because they had limited display capabilities.</p>
