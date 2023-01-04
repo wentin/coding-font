@@ -3,12 +3,108 @@
     <title>Coding Font Blog</title>
     <link href="https://www.codingfont.com/blog/feed.xml" rel="self" />
     <link href="https://www.codingfont.com/blog" />
-    <updated>2022-06-16T22:00:15-04:00</updated>
+    <updated>2023-01-04T01:13:29-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://www.codingfont.com/blog</id>
 
+    <entry>
+        <title>Less Eyestrain! Best Coding Fonts for 2023</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://www.codingfont.com/blog/best-coding-fonts-for-2023/"/>
+        <id>https://www.codingfont.com/blog/best-coding-fonts-for-2023/</id>
+            <category term="fonts"/>
+            <category term="coding fonts"/>
+
+        <updated>2023-01-04T01:13:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.codingfont.com/blog/media/posts/13/best2023Cover-12.png" alt="Best Coding Fonts 2023" />
+                    As engineers, we spent an extended period looking at large blocks of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.codingfont.com/blog/media/posts/13/best2023Cover-12.png" alt="Best Coding Fonts 2023" />
+                <p>As engineers, we spent an extended period looking at large blocks of code made of letters, symbols, and numbers. If the default font in our IDE is not optimized, this causes eye strain and exhaustion. That’s why our chosen coding font can make a huge difference. A font optimized for coding can increase productivity and decrease errors.</p>
+<hr>
+<h1 id="how-to-choose-a-coding-font">How to Choose a Coding Font</h1>
+<p>Here are a few factors we can use to consider when deciding on a coding font for IDE:</p>
+<p><strong>Readability:</strong> Some fonts’ design characteristics make them easier to read on screen, especially in a coding environment. Choosing a font that is easy to read can help you stay focused and avoid eye strain while coding.</p>
+<p><strong>Legibility:</strong> The font should be easy to read for programming, with clear distinctions between different characters (e.g., 0 and O, 1 and l).</p>
+<p><strong>Slashed or dotted zero:</strong> This design feature makes the letter “O” and the number “0” more distinguishable.</p>
+<p><strong>Italic:</strong> Italics make keywords, like function, stand out in syntax highlighting.</p>
+<p><strong>Coding ligature:</strong> Special coding ligatures for common coding symbols, like arrow, “= &gt;” and “www.”</p>
+<p><strong>Preference:</strong> Everyone codes differently. Some people simply find a specific coding font helps their work more enjoyable and productive. Another factor is using the same coding font as your team members can be helpful for code reviews and co-programming.</p>
+<p><strong>Monospace:</strong> In a monospace font, every character takes up an equal amount of horizontal space. This feature helps align letters, numbers, and symbols vertically, making code easier to read.</p>
+<hr>
+<h1 id="our-top-five-coding-font-for-2023">Our Top Five Coding Font for 2023</h1>
+<p>Here are our top five coding fonts we recommend you to try in 2023. Ultimately, you should choose a coding font that best suits your needs.</p>
+<ul>
+<li>Victor Mono</li>
+<li>Jet Brains Mono</li>
+<li>Fira Mono &amp; Fira Code</li>
+<li>Source Code Pro</li>
+<li>Hack</li>
+</ul>
+<h2 id="victor-mono">Victor Mono</h2>
+<ul>
+<li>Coding ligatures</li>
+<li>Full set of true italics constructions in semi-connected cursive-style</li>
+<li>You can choose between Dotted or Slashed 0</li>
+</ul>
+<p>Out of all the coding fonts, Victor Mono has the most quirk. While practical in its design, it features semi-connected cursive-style letterforms to create a set of true italics, making keywords and comments stand out. Another bonus is that it comes with programming ligatures, making things like arrow, “=&gt;”, easy to find.</p>
+<p>👉 <em>Get <a href="https://rubjo.github.io/victor-mono/">Victor Mono.</a></em></p>
+<p><figure class="post__image"><img loading="lazy" src="https://lh3.googleusercontent.com/KBx1-IIiDzZRm0RVnz3XAOYJPbNaT62fbGNLNkYFikNkPMPUS8MhL-yGUtNgCix7zlPInl4NBA6BbJif7_Y7BSZJbZGij-CWwRej0Dy0LF8PYu7-Bvvx-eiwDlplrlKZHDUK3FsB_gOPCugO1pub0LdiDAujQA7tdin7z10gLLr2b3QAnN2aHPt-ru6aqA" data-is-external-image="true"  alt="https://lh3.googleusercontent.com/KBx1-IIiDzZRm0RVnz3XAOYJPbNaT62fbGNLNkYFikNkPMPUS8MhL-yGUtNgCix7zlPInl4NBA6BbJif7_Y7BSZJbZGij-CWwRej0Dy0LF8PYu7-Bvvx-eiwDlplrlKZHDUK3FsB_gOPCugO1pub0LdiDAujQA7tdin7z10gLLr2b3QAnN2aHPt-ru6aqA" /></figure></p>
+<h2 id="jetbrains-mono">JetBrains Mono</h2>
+<ul>
+<li>Coding ligatures</li>
+<li>Mostly oblique italics with some true italics constructions</li>
+<li>You can choose between dotted or slashed 0</li>
+</ul>
+<p>Also more practical in its design approach, JetBrains Mono is optimized for the screen and reading flow. Some programmers prefer a more muted italic to minimize reading disruptions when coding.</p>
+<p>JetBrains Mono uses true italic construction for only three of its letters, “a”, “y”, and “f”, and features a small degree of slant. This is perfect for programmers to prioritize reading flows over keyword scanning.</p>
+<p>👉 <em>Get <a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono.</a></em></p>
+<p><figure class="post__image"><img loading="lazy" src="https://lh6.googleusercontent.com/-dL9qcmjHUff4Q8GsH7CMfnkRe8C94M59A37_j6HAsq_vE1SAW8aHGy5R5KRphghhQ9De_fv74Tvb0z7dRLKSbrZ07CxTTWdM7dHqkmksaN_A1FQLwo6E0kyZ4a_iJpbNtH9ZYGoVaPeZsI3ke86o3yVEzIVusXLRoPHH3WdbPdwH6eBtl9bSYAQqcXK4g" data-is-external-image="true"  alt="https://lh6.googleusercontent.com/-dL9qcmjHUff4Q8GsH7CMfnkRe8C94M59A37_j6HAsq_vE1SAW8aHGy5R5KRphghhQ9De_fv74Tvb0z7dRLKSbrZ07CxTTWdM7dHqkmksaN_A1FQLwo6E0kyZ4a_iJpbNtH9ZYGoVaPeZsI3ke86o3yVEzIVusXLRoPHH3WdbPdwH6eBtl9bSYAQqcXK4g" /></figure></p>
+<h2 id="fira-code">Fira Code</h2>
+<ul>
+<li>Coding ligatures</li>
+<li>No Italics</li>
+<li>You can choose between dotted or slashed 0</li>
+</ul>
+<p>Though lacking italics, Fira Code is one of the most popular coding fonts with coding ligatures. It is so popular that many use Fira Code’s ligature to add to other programming fonts lacking coding ligatures.</p>
+<p>👉 <em>Head to Github to get <a href="https://github.com/tonsky/FiraCode">Fira Code.</a></em></p>
+<p><figure class="post__image"><img loading="lazy" src="https://lh3.googleusercontent.com/a0Sjnpk6CaMrT-VoYiSp7u_U78mABmBOCzELbFgGLxi2HBnq4cEndyqHa62EfkELG8asr_wsbLtKoIhZH3CBiclzPpOOusJjfu0dLQa6-UIg6p2pgbx3bFwH0jmOyqpKc5zhfkhnrXL4Y8ysutEEc8YKkcZEKkOQIku1VjLBzDS4yyTI6xxSNWEU1zA0XA" data-is-external-image="true"  alt="https://lh3.googleusercontent.com/a0Sjnpk6CaMrT-VoYiSp7u_U78mABmBOCzELbFgGLxi2HBnq4cEndyqHa62EfkELG8asr_wsbLtKoIhZH3CBiclzPpOOusJjfu0dLQa6-UIg6p2pgbx3bFwH0jmOyqpKc5zhfkhnrXL4Y8ysutEEc8YKkcZEKkOQIku1VjLBzDS4yyTI6xxSNWEU1zA0XA" /></figure></p>
+<h2 id="source-code-pro-hasklig">Source Code Pro/ Hasklig</h2>
+<ul>
+<li>Coding ligatures with Hasklig</li>
+<li>Mostly oblique italics with some true italics constructions</li>
+<li>You can choose between Dotted or Slashed 0</li>
+</ul>
+<p>A popular coding font, Source Code Pro has a calligraphic touch comforting to the eye and wider character width optimized for screen reading. The italic is recognizable enough with true construction for some lowercase letters, like “g” and “i.” S</p>
+<p>Since Source Code Pro does not have coding ligatures and is open-sourced so others could modify the font, Hasklig was created to fulfill the need for coding ligatures. So if you want Source Code Pro but with coding ligatures, give Hasklig a try.</p>
+<p>👉 <em><a href="https://fonts.google.com/specimen/Source+Code+Pro">Source Code Pro</a> is available on Google Fonts. <a href="https://github.com/i-tu/Hasklig">Hasklig</a> is available on Github.</em></p>
+<p><figure class="post__image"><img loading="lazy" src="https://lh3.googleusercontent.com/Kdx1lg4FZEGLBYSypYxe4SA6aGgK5H_h7zlUFPck2YypofCQHz8xpnyTNhyijXcMokB1WgJM71xt1d4Dnae8yZktuXp--WmSGdMncwni1r4_-WVBwOF1RPSEmAYz7hAmLk0gSug42bfD7Ihlonoyjmkg9vDkWscCcJuXCh5HgXQWf82fUz0srl3QYB_mwA" data-is-external-image="true"  alt="https://lh3.googleusercontent.com/Kdx1lg4FZEGLBYSypYxe4SA6aGgK5H_h7zlUFPck2YypofCQHz8xpnyTNhyijXcMokB1WgJM71xt1d4Dnae8yZktuXp--WmSGdMncwni1r4_-WVBwOF1RPSEmAYz7hAmLk0gSug42bfD7Ihlonoyjmkg9vDkWscCcJuXCh5HgXQWf82fUz0srl3QYB_mwA" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/G2r5KTcHrAKY5Aq0C72g-OMqNITsFs04UGzVW1wW4a85p6TSeTjE2Vk1zxk4JvfR2-th63M5yTAPShsVL4ZqX3lo67hDQD0w1jrjivJAziTBpw3ti2mVGPg7YnLYy05zL98IREiGeQVo30r9RDvef-N6P3_RHO05xb2hzGiLKvAb9j3BHSmPygsBowT6Rg" data-is-external-image="true"  alt="https://lh4.googleusercontent.com/G2r5KTcHrAKY5Aq0C72g-OMqNITsFs04UGzVW1wW4a85p6TSeTjE2Vk1zxk4JvfR2-th63M5yTAPShsVL4ZqX3lo67hDQD0w1jrjivJAziTBpw3ti2mVGPg7YnLYy05zL98IREiGeQVo30r9RDvef-N6P3_RHO05xb2hzGiLKvAb9j3BHSmPygsBowT6Rg" /></figure></p>
+<figcaption>Img: Haslig’s coding ligatures for Source Code Pro</figcaption>
+
+<h2 id="hack">Hack</h2>
+<ul>
+<li>No coding ligatures</li>
+<li>Oblique italic</li>
+<li>Dotted zero</li>
+</ul>
+<p>Hack is another popular programming font. More utilitarian rather than calligraphic in appearance, Hack has minimal stroke contrast, an enlarged x-height, and open counters to optimize for screen reading.</p>
+<p>It does come with italics but currently has no coding ligatures. However, many coders hack Hack with JetBrains Mono or Fira Code ligatures.</p>
+<p>👉 <em>Get <a href="https://sourcefoundry.org/hack/">Hack</a> Here.</em></p>
+<p><figure class="post__image"><img loading="lazy" src="https://lh5.googleusercontent.com/CbtPaG9Piz5iHEGZQNVgyuLgTyUhx8Ee7oX3jUIA6Y__85sZ5osXXkXOpB2pRv8Icw4GsknMBe1HP-zFAFWnKTAQmLmxDVHfqzLtVTVyzhiwQ-pA9XxsOhrK7Bow48_jLGEmYOFCB_iwJpNM_6gMNEW_rdd0vOBIBwD4YtMStXoQKjYttzvb3Bwa7w5SOw" data-is-external-image="true"  alt="https://lh5.googleusercontent.com/CbtPaG9Piz5iHEGZQNVgyuLgTyUhx8Ee7oX3jUIA6Y__85sZ5osXXkXOpB2pRv8Icw4GsknMBe1HP-zFAFWnKTAQmLmxDVHfqzLtVTVyzhiwQ-pA9XxsOhrK7Bow48_jLGEmYOFCB_iwJpNM_6gMNEW_rdd0vOBIBwD4YtMStXoQKjYttzvb3Bwa7w5SOw" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Best Coding Fonts with Italics and Programming Ligatures</title>
         <author>
@@ -19,7 +115,7 @@
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-16T22:00:15-04:00</updated>
+        <updated>2022-12-27T22:58:22-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/12/bestCodingFontsItalicLigature.png" alt="Best Free Coding Fonts with Italics and Programming Ligatures" />
@@ -63,7 +159,7 @@
 <hr>
 <h1><span style="font-weight: 400;">Monospaced Coding Font with Ligature</span></h1>
 <p> </p>
-<p><span style="font-weight: 400;">While researching Operator Mono, I also went down a rabbit hole with ligatures, a popular feature that many coders pursue and hack. With that said, there are also numerous </span><a href="https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html" target="_blank" rel="noopener noreferrer"></a><span style="font-weight: 400;">. Some argue that using ligatures fiddle with the semantic meaning of code. </span></p>
+<p><span style="font-weight: 400;">While researching Operator Mono, we went down a rabbit hole with ligatures, a popular feature that many coders pursue and hack. With that said,</span><span style="font-weight: 400;"> some argued against using coding ligatures, claiming they fiddled with the semantic meaning of code. </span></p>
 <p><span style="font-weight: 400;">In a font, ligatures are special characters that combine two or more characters. For example, the letter "f" has a high frequency of appearing with "i" and "l", as in words like “figure” and “flower.” To improve the readability in these specific cases, font designers created ligatures as a solution - common letter combinations, like "fi" and "fl", would be combined to create a unique character that would replace the two letters when typed together. So, if a font has a ligature for arrow, “= &gt;”, the ligature “=&gt;” would replace the two characters, “=” and”&gt;.”</span></p>
 <p><span style="font-weight: 400;">Though Operator Mono does not currently support any ligatures, two of the fonts we featured in this post do –– Victor Mono and JetBrains Mono. Fira Code also has a popular ligature set that many programmers use to configure fonts like Operator Mono or Source Code Pro, which lacks programming ligatures of their own. </span></p>
 <h2>Victor Mono </h2>
@@ -374,7 +470,7 @@ Originally published on our build in publilc newsletter. <a href="https://build.
             <category term="fonts"/>
             <category term="coding fonts"/>
 
-        <updated>2022-06-14T22:44:52-04:00</updated>
+        <updated>2023-01-03T21:15:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.codingfont.com/blog/media/posts/2/coverBestCodingFonts-2.png" alt="Our Top Three Picks of Coding Fonts" />

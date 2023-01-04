@@ -82,17 +82,17 @@
     {
         "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
-        "md5": "452594838e74a3df91ad4a20cf53c831"
+        "md5": "0c70735af58190b563b2940b7a07007a"
     },
     {
         "path": "/assets/svg/gallery-icons-light.svg",
         "type": "file",
-        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
     },
     {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
-        "md5": "c8a454075de364fda5bbedb753ee928a"
+        "md5": "e0702e0e788e8406284f0a1ab538497f"
     },
     {
         "path": "authors",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/hua-shu/index.html",
         "type": "file",
-        "md5": "694dbf4bb8f708f738507fed057894de"
+        "md5": "3159cd2124633338e14b11d3cac114dd"
     },
     {
         "path": "authors/wenting-zhang",
@@ -127,7 +127,17 @@
     {
         "path": "/best-coding-fonts/index.html",
         "type": "file",
-        "md5": "b9c5cf8f0cd6e7b42c0811d2c69646b0"
+        "md5": "9e54ed3b1888d4a08e5481fd1d598fe9"
+    },
+    {
+        "path": "best-coding-fonts-for-2023",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-coding-fonts-for-2023/index.html",
+        "type": "file",
+        "md5": "2a180019bae77a53b4653c281377f5a1"
     },
     {
         "path": "coding-font-with-italic-and-programming-ligature",
@@ -137,17 +147,17 @@
     {
         "path": "/coding-font-with-italic-and-programming-ligature/index.html",
         "type": "file",
-        "md5": "48a68b6a1720e77bf07b63ed243fc14a"
+        "md5": "74e4c8a6f97f642bb60f8286f5c693a5"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8f84608ed0d3ca006b5163c87cbc1c7a"
+        "md5": "dcafae00bde87d54a2a309594dde2e27"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ba3575b967b0c2cc7c7481ef59889faf"
+        "md5": "c358f8991731df39292c421e0507a5a4"
     },
     {
         "path": "how-i-created-a-product-with-low-code",
@@ -157,7 +167,7 @@
     {
         "path": "/how-i-created-a-product-with-low-code/index.html",
         "type": "file",
-        "md5": "2c8c849447c9ecfde4f4693d8251b5d6"
+        "md5": "6715d9501f5835771ca1e8db5d4b29dd"
     },
     {
         "path": "how-to-create-good-landing-pages",
@@ -172,7 +182,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f287165c89b2c0b6a841d872e193a144"
+        "md5": "ff640aecf39d12f268ebdf0c8b5a3b01"
     },
     {
         "path": "media",
@@ -408,6 +418,56 @@
         "path": "/media/posts/12/victorMonoItalic.png",
         "type": "file",
         "md5": "5dddf94a47b90c75475e26e85773f2ab"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/best2023Cover-12.png",
+        "type": "file",
+        "md5": "e2732a7b70889d5d67d7bfbe5be07e08"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-2xl.png",
+        "type": "file",
+        "md5": "7c7ac3e9b1c809a41b8b57632fda89f1"
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-lg.png",
+        "type": "file",
+        "md5": "b2878be73bf0b612e2915248509f162c"
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-md.png",
+        "type": "file",
+        "md5": "daeea896a664405bfed4bcf824cdabaf"
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-sm.png",
+        "type": "file",
+        "md5": "937d1516cb9cc6905a5765c02eece623"
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-sm2.png",
+        "type": "file",
+        "md5": "e41cb92077a1c6e11a58172b939efcdc"
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-xl.png",
+        "type": "file",
+        "md5": "dd878207b5dd6a936254afc52dbf8afb"
+    },
+    {
+        "path": "/media/posts/13/responsive/best2023Cover-12-xs.png",
+        "type": "file",
+        "md5": "f563466c68a02b18d89d38e01c4b5842"
     },
     {
         "path": "media/posts/2",
@@ -897,7 +957,7 @@
     {
         "path": "/media/website/logo.svg",
         "type": "file",
-        "md5": "897fd8393a0c1bb494f4185358d01f59"
+        "md5": "3409cb15dd6bd7396afeffee8658f463"
     },
     {
         "path": "media/website/responsive",
@@ -972,7 +1032,7 @@
     {
         "path": "/monospaced-fonts/index.html",
         "type": "file",
-        "md5": "a56d66042bf04cfdeefd47bd714fb3f4"
+        "md5": "80ab2b817e0496bc80ebaf468c60d65a"
     },
     {
         "path": "robots.txt",
@@ -987,7 +1047,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b72954711576493f7965bb7a5439b782"
+        "md5": "90187d6d886229fb64f2cc7e475c1054"
     },
     {
         "path": "sitemap.xsl",
@@ -1007,7 +1067,7 @@
     {
         "path": "/tags/coding-fonts/index.html",
         "type": "file",
-        "md5": "ac4947a9c56d47c5d243e14261f1f942"
+        "md5": "deb9ab0b3a0f52e632f1d8c8cf18339f"
     },
     {
         "path": "tags/fonts",
@@ -1017,12 +1077,12 @@
     {
         "path": "/tags/fonts/index.html",
         "type": "file",
-        "md5": "4664b93f8ce134527084a50a780c29eb"
+        "md5": "01e0cfaade00c7b2aa9b3704699ab5a7"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ad0acd605a9f65ef134ec7f809cfc46d"
+        "md5": "71a3659632d2a7d547dd37a9eab47bb9"
     },
     {
         "path": "we-just-launched-something-new",
